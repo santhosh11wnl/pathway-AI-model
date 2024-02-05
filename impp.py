@@ -2,12 +2,7 @@ import base64
 import json
 import os
 import requests
-import torch
 from dotenv import load_dotenv
-from openai import OpenAI
-from get_text_image_from_pdfs import extract_information, Path 
-from pathway_pdf_identifier import process_pdfs
-from Pathway_image_identifier import process_images
 
 load_dotenv()
 
@@ -23,32 +18,7 @@ def select_image_from_directory(directory):
             return os.path.join(directory, filename)
     return None
 
-def process_pdfs_images_and_chatgpt():
-    # PDF Identification
-    pdf_dir = r'C:\Users\saimi\deepproject\pdf files'
-    model_path = r'C:\Users\saimi\deepproject\RetinaNet(pathway_identifier)\RetinaNet(pathway_identifier)\model\csv_retinanet_2.pt'
-    output_path = r'C:\Users\saimi\deepproject\paper'
-    process_pdfs(pdf_dir, model_path, output_path)
-
-    # Extracting text and images from PDFs
-    pdf_path = 'paper'
-    pdf_file_path = Path(pdf_path)
-    for pdf_file in pdf_file_path.glob("*.pdf"):
-        pdf_name = os.path.split(pdf_file)[1].split('.')[0]
-        extract_information(pdf_file)
-
-    # Image Extraction and Identification
-    image_folder = r'C:\Users\saimi\deepproject\extract_img'
-    model_path = r'C:\Users\saimi\deepproject\RetinaNet(pathway_identifier)\RetinaNet(pathway_identifier)\model\csv_retinanet_2.pt'
-    output_folder = r'C:\Users\saimi\deepproject\pathway_images'
-    process_images(image_folder, model_path, output_folder)
-
-    # ChatGPT API
-    model_path = r'C:\Users\saimi\deepproject\RetinaNet(pathway_identifier)\RetinaNet(pathway_identifier)\model\csv_retinanet_2.pt'
-    model = torch.load(model_path, map_location=torch.device('cpu'))
-    model = model.cpu()
-
-    image_directory = r"C:\Users\saimi\deepproject\pathway_images"
+def process_images_and_chatgpt(image_directory):
     image_path = select_image_from_directory(image_directory)
 
     if image_path:
@@ -100,4 +70,5 @@ def process_pdfs_images_and_chatgpt():
         print("No image found in the directory")
 
 if __name__ == '__main__':
-    process_pdfs_images_and_chatgpt()
+    image_directory = r"C:\Users\saimi\deepproject\pathway_images"
+    process_images_and_chatgpt(image_directory)

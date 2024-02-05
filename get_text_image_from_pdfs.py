@@ -41,23 +41,17 @@ def image_profile_2(page, img_count):
 def extract_image(pdf_file, img_path):
     doc = fitz.open(pdf_file)
     pdf_name = os.path.split(pdf_file)[1].split('.pdf')[0]
-    save_path_root = Path(img_path)
+    save_path_root = Path(img_path)  # Use the img_path directly
 
     # extract image
     global image_dicts
-    dir_name = os.path.join(save_path_root, pdf_name)
 
     for current_page in range(len(doc)):  # every page
-        count = 0
-        image_caption = []
         for image in doc.get_page_images(current_page):  # every image for the page
-            if not os.path.isdir(dir_name):
-                os.makedirs(dir_name)
-            save_path_root = dir_name  # 按文件名分出单个目录
             page = doc.load_page(current_page)
             xref = image[0]
             pix = fitz.Pixmap(doc, xref)
-            save_path = os.path.join(save_path_root, "%s_page%s_%s.jpg" % (pdf_name, current_page, xref))
+            save_path = os.path.join(save_path_root, f"{pdf_name}_page{current_page}_{xref}.jpg")  # Update save_path
             if pix.n < 4:  # this is GRAY or RGB
                 pix.pil_save(save_path)
             else:  # CMYK: convert to RGB first
@@ -65,6 +59,8 @@ def extract_image(pdf_file, img_path):
                 pix1.save(save_path)
                 pix1 = None
             pix = None
+            # ... (rest of your code for image extraction, if any) ...
+
 
             # img_count = len(doc.get_page_images(current_page))  # image count of the page
             # image_caption = image_profile_2(page, img_count)  # extract the next paragraph as the image caption
