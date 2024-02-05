@@ -1,0 +1,464 @@
+[
+  {
+    "metatada": [
+      {
+        "Paper_title": "The role of molecular analyses in the era of personalized therapy for advanced NSCLC"
+      },
+      {
+        "Author": "Nichole  T.  Tanner a, Nicholas  J.  Pastis a, Carol  Sherman b,  George  R.  Simon b,  David  Lewin c, Gerard  A.  Silvestri a,∗ "
+      },
+      {
+        "Abstract": "a Division  of  Pulmonary  and  Critical  Care  Medicine,  Medical  University  of  South  Carolina,  PO  Box  250630,  Charleston,  SC  29425,  United  States b Division  of  Hematology/Oncology,  Department  of  Medicine,  Medical  University  of  South  Carolina,  96  Jonathan  Lucas  Street,  Suite  903,  MSC  635,  Charleston,  SC  29425,  United  States c Department  of  Pathology  and  Laboratory  Medicine,  Medical  University  of  South  Carolina,  171  Ashley  Avenue,  MSC  908,  Charleston,  SC  29425-9080,  United  States "
+      },
+      {
+        "Keywords": " Epidermal "
+      }
+    ]
+  },
+  {
+    "body_text": [
+      {
+        "section1": [
+          {
+            "section_title": "1. Introduction"
+          },
+          {
+            "paragraph1": "Lung cancer represents the leading cause of cancer-relateddeaths in the United States and worldwide, with an estimated 5-year survival rate of approximately 16% for all stages [1,2]. Whileplatinum-based doublet therapy is the traditional treatment ofchoice for advanced/metastatic (stage IIIB/IV) non-small cell lungcancer (NSCLC), no speciﬁc regimen is clearly superior, and efﬁ-cacy with these regimens has reached a plateau in terms of overallresponse rate (RR; ∼25%–35%) and median overall survival (OS;8–10 months) [2].  Molecular testing for epidermal growth factorreceptor (EGFR) and Kirsten rat sarcoma viral oncogene homolog(KRAS) mutations has allowed for the identiﬁcation of subsets ofpatients who will be more responsive to certain therapies. Conse-quently, the treatment of patients with NSCLC is evolving towarda more personalized approach that utilizes speciﬁc molecular andgenetic tumor proﬁles in treatment decisions. In addition to oncol-ogists, radiologists, and pathologists, pulmonologists are essential"
+          },
+          {
+            "paragraph2": "∗ Corresponding author. Tel.: +1 843 792 3167; fax: +1 843 792 0732.E-mail address: silvestr@musc.edu (G.A. Silvestri)."
+          },
+          {
+            "paragraph3": "team members in this quest for individualized treatment, play-ing a critical role in obtaining material for cytologic and histologicstudies as well as ensuring that tissue is submitted for appropriatemolecular investigation. This article reviews the clinical evidencesupporting molecular typing of NSCLC, describes approaches fortissue sampling and molecular analysis, and discusses future direc-tions of molecular proﬁling and the personalized treatment ofpatients with NSCLC."
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "2. Rationale for the routine testing of EGFR in NSCLC"
+          },
+          {
+            "paragraph1": "The pathologic role of the EGFR pathway in the initiation andprogression of NSCLC is well established (Fig. 1) [3,4]. Retrospec-tive analyses in patients with NSCLC have reported increased EGFRexpression in 40–80% of tumors and demonstrated a correlationbetween increased expression and poor prognosis [5,6]. Basedon the role of EGFR in the pathogenesis of NSCLC, inhibitors ofEGFR signaling have been developed as a therapeutic strategy forNSCLC, including monoclonal antibodies that block ligand binding"
+          },
+          {
+            "paragraph2": "[5] and small molecule tyrosine kinase inhibitors (TKIs). ReversibleEGFR TKIs, such as geﬁtinib and erlotinib, competitively bind toEGFR and are approved for NSCLC in various settings [7,8], while"
+          },
+          {
+            "paragraph3": "0169-5002/$ – see front matter ©  2011 Elsevier Ireland Ltd. All rights reserved.doi:10.1016/j.lungcan.2011.11.013"
+          },
+          {
+            "paragraph4": "132N.T. Tanner et al. / Lung Cancer 76 (2012) 131– 137"
+          },
+          {
+            "paragraph5": "Fig. 1. EGFR signal transduction pathways. In response to ligand binding, mem-bers of the EGFR family of receptor tyrosine kinases form dimers and are activated,resulting"
+          },
+          {
+            "paragraph6": " in downstream signaling which promote survival and proliferation."
+          },
+          {
+            "paragraph7": "investigational irreversible EGFR TKIs (e.g., afatinib [BIBW 2992],PF00299804), which target multiple human epidermal growth fac-tor receptor (HER) family members simultaneously, are undergoingclinical evaluation for NSCLC. Approximately 90% of patients withgenetic EGFR aberrations harbor either a 15-base pair nucleotidein-frame deletion in exon 19 (E746-A750del) or a L858R pointmutation in exon 21 (Fig. 2) [6,9,10]. These aberrations lead toligand-independent constitutive activation of EGFR and have beenshown to confer sensitivity to EGFR TKIs."
+          },
+          {
+            "section2": [
+              {
+                "section_title": "2.1. Relationship of EGFR mutations and response to EGFR TKIs"
+              },
+              {
+                "paragraph1": "Early clinical studies ﬁrst showed improved clinical beneﬁt withgeﬁtinib and erlotinib in certain patient populations, includingthose with adenocarcinoma, never smokers, women, and thosefrom East Asia [11]. In the double-blind phase III ISEL study in uns-elected patients with relapsed/refractory NSCLC, those with EGFRmutations had higher RR than patients without EGFR mutations(37.5% vs 2.6%), but data were insufﬁcient for survival analysis"
+              },
+              {
+                "paragraph2": "[12]. In the randomized phase III BR.21 trial [13], again in an uns-elected population that had relapsed/refractory disease (followingat least 1 chemotherapy regimen), those who received erlotinibhad a longer progression-free survival (PFS) and OS compared withplacebo (P < 0.001 for each). However, EGFR mutational status wasnot signiﬁcantly associated with survival beneﬁt with erlotinib"
+              },
+              {
+                "paragraph3": "[14], perhaps due to the sequential use of erlotinib in those that hadalready failed at least 1 conventional chemotherapeutic regimen.Results from the Spanish Lung Cancer Group showed the feasi-bility of prospectively screening for EGFR mutation prior to EGFRTKI therapy [15]. Moreover, several phase III trials support theimportance of EGFR testing prior to the initiation of ﬁrst-line ther-apy for advanced NSCLC (Table 1). Two phase III trials (IPASSand First-SIGNAL) evaluated ﬁrst-line geﬁtinib vs chemotherapyin Asian patients selected based on clinical factors known to beassociated with higher prevalence of EGFR mutation (adenocarci-noma histology, never or former light smokers) [16,17]. The IPASSmutation subanalysis provided evidence that patients with EGFR"
+              },
+              {
+                "paragraph4": "mutations"
+              },
+              {
+                "paragraph5": " respond signiﬁcantly better to geﬁtinib than standardplatinum-based chemotherapy and those without EGFR mutationsrespond signiﬁcantly better to standard chemotherapy [16], high-lighting the importance of molecular selection rather than clinicalselection for guiding ﬁrst-line treatment for NSCLC. Two additionalphase III Asian trials (WJTOG3405 and NEJ002) utilized molecu-lar section and included only patients with EGFR-mutation positivetumors, with results conﬁrming those from IPASS and First-SIGNAL"
+              },
+              {
+                "paragraph6": "[18–20]. The OPTIMAL phase III trial conducted in China was theﬁrst to compare erlotinib with chemotherapy in patients withEGFR-mutation positive tumors [21,22].  Similar to results observedin the geﬁtinib trials, ﬁrst-line erlotinib signiﬁcantly prolonged PFSvs platinum-based chemotherapy. Interim results from the Euro-pean phase III EURTAC study also show signiﬁcantly longer PFS withﬁrst-line erlotinib vs platinum-based chemotherapy in patientswith EGFR-mutation positive NSCLC [23], providing further supportfor molecular testing prior to initiating therapy for advanced NSCLC.Results of clinical trials evaluating investigational irreversible EGFRTKIs may also provide further support for molecular testing inNSCLC. An open-label phase II trial is evaluating PF00299804 in theﬁrst-line setting, in patients with advanced adenocarcinoma of thelung harboring an EGFR mutation [24]. Preliminary results indicatedthat overall best responses were 1 complete response, 29 partialresponses, 28 with stable disease, and 6 with progressive disease.In addition, an open-label, randomized phase III trial (LUX-Lung 3;NCT00949650) is evaluating afatinib vs pemetrexed/cisplatin in theﬁrst-line setting, in patients with stage IIIB/IV adenocarcinoma ofthe lung harboring an EGFR-activating mutation."
+              }
+            ]
+          },
+          {
+            "section2": [
+              {
+                "section_title": "2.2. EGFR gene copy number, EGFR protein overexpression, andresponse to EGFR TKIs"
+              },
+              {
+                "paragraph1": "EGFR gene ampliﬁcation and EGFR protein overexpression havealso been implicated in predicting response to EGFR TKIs. In thedouble-blind phase III ISEL study, high EGFR gene copy number wasassociated with a lower risk of death with geﬁtinib vs placebo (haz-ard ratio [HR] for death, 0.61; P = 0.067), and patients with tumorsexpressing EGFR had signiﬁcantly improved OS with geﬁtinib vsthose whose tumors did not express EGFR (P = 0.049) [12]. Simi-larly, univariate analysis from the phase III BR.21 study showed thatOS was longer with erlotinib vs placebo in patients whose tumorsexpressed EGFR (HR, 0.68; P = 0.02) or had high EGFR copy number(HR, 0.44; P = 0.008) [14]. However, multivariate analysis revealedthat EGFR expression or EGFR copy number was not signiﬁcantlyassociated with survival beneﬁt in either treatment group.The issue of whether EGFR mutations or increased EGFR copynumber (detected via ﬂuorescent in situ hybridization [FISH])is the better biomarker for EGFR-TKI response was clariﬁed byexploratory analysis of the IPASS trial [25]. Patients with high EGFRcopy number had improved PFS with geﬁtinib vs chemotherapy(HR = 0.66, 95% conﬁdence interval, 0.50–0.88; P = 0.005). However,post hoc exploratory analyses showed this effect was primar-ily driven by overlap of high EGFR copy number with positiveEGFR-mutation status (among the 249 patients who were FISH pos-itive, 190 (78%) also harbored an EGFR mutation). Patients whowere FISH positive/mutation negative derived little or no beneﬁtfrom geﬁtinib; however, patients with EGFR mutations overall hadsigniﬁcantly longer PFS with geﬁtinib (P < 0.001) [16], suggestingthat EGFR-mutation status is the primary determinant of responseto geﬁtinib and consequently the preferred biomarker to predictEGFR-TKI beneﬁt."
+              }
+            ]
+          },
+          {
+            "section2": [
+              {
+                "section_title": "2.3. Secondary EGFR mutations"
+              },
+              {
+                "paragraph1": "While patients with EGFR mutations typically respond toerlotinib or geﬁtinib, additional mutations in the EGFR gene have"
+              },
+              {
+                "paragraph2": "N.T. Tanner et al. / Lung Cancer 76 (2012) 131– 137133"
+              },
+              {
+                "paragraph3": "Table 1Phase III studies comparing reversible EGFR TKIs vs platinum-based chemotherapy as ﬁrst-line treatment of advanced NSCLC."
+              },
+              {
+                "paragraph4": "Study Patient population Treatment HR for progression (95% CI) RR, %"
+              },
+              {
+                "paragraph5": "IPASS (N = 1217) [16] Asian, never or formerlight smokers,adenocarcinoma"
+              },
+              {
+                "paragraph6": "Geﬁtinib"
+              },
+              {
+                "paragraph7": " vs carboplatin/gemcitabine Overall: 0.74 (0.65–0.85)aOverall: 43.0 vs 32.2e"
+              },
+              {
+                "paragraph8": "EGFR-mut pos: 0.48 (0.36–0.64)aEGFR-mut pos: 71.2 vs 47.3e"
+              },
+              {
+                "paragraph9": "EGFR-mut neg: 2.85 (2.05–3.98)aEGFR-mut neg: 1.1 vs 23.5b"
+              },
+              {
+                "paragraph10": "First-SIGNAL (N = 309)"
+              },
+              {
+                "paragraph11": "[17]"
+              },
+              {
+                "paragraph12": "Asian, never or formerlight smokers,adenocarcinoma"
+              },
+              {
+                "paragraph13": "Geﬁtinib"
+              },
+              {
+                "paragraph14": " vs cisplatin/gemcitabine Overall: 0.737 (0.580–0.938)bOverall: 53.5 vs 42.0c"
+              },
+              {
+                "paragraph15": "Geﬁtinib (EGFR-mut neg vs EGFR-mut pos):0.385 (0.208–0.711)b"
+              },
+              {
+                "paragraph16": "CT (EGFR-mut neg vs EGFR-mut pos): 1.223(0.650–2.305)c"
+              },
+              {
+                "paragraph17": "WJTOG3405 (N = 172)"
+              },
+              {
+                "paragraph18": "[18]"
+              },
+              {
+                "paragraph19": "EGFR-mut pos Geﬁtinib vs cisplatin/docetaxel 0.489 (0.336–0.710)a62.1 vs 32.2a"
+              },
+              {
+                "paragraph20": "NEJ002 (N = 228) [19] EGFR-mut pos Geﬁtinib vs carboplatin/paclitaxel 0.30 (0.22–0.41)d73.7 vs 30.7d"
+              },
+              {
+                "paragraph21": "OPTIMAL (N = 154)"
+              },
+              {
+                "paragraph22": "[21,21]"
+              },
+              {
+                "paragraph23": "EGFR-mut pos Erlotinib vs carboplatin/gemcitabine 0.164 (NR)a83 vs 36a"
+              },
+              {
+                "paragraph24": "EURTAC (N = 174) [23]EGFR-mut posErlotinib vs platinum-basedchemotherapy0.42 (NR)a54.5 vs 10.5a"
+              },
+              {
+                "paragraph25": "CI: conﬁdence interval; CT: chemotherapy; EGFR: epidermal growth factor receptor; EGFR-mut pos: EGFR-mutation positive; EGFR-mut neg: EGFR-mutation negative; HR:hazard"
+              },
+              {
+                "paragraph26": " ratio; NR: not reported; TKIs: tyrosine kinase inhibitors."
+              },
+              {
+                "paragraph27": "a P < 0.0001.b P < 0.01.c P > 0.05.d P < 0.001.e P = 0.0001."
+              },
+              {
+                "paragraph28": "been associated with primary and acquired resistance to EGFR-TKItherapy. For example, the T790M point mutation in EGFR exon 20 ispresent in approximately 50% of patients who initially respond toreversible EGFR TKIs and then develop resistance [26–28].  It is note-worthy that the T790M mutation can also occur de novo in EGFR TKItreatment-naive patients [29–32], suggesting its potential utility asa predictive biomarker."
+              },
+              {
+                "paragraph29": "3."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": " KRAS mutations and NSCLC"
+          },
+          {
+            "paragraph1": "Increasing evidence indicates that signaling pathways down-stream of EGFR (Fig. 1) are also involved in the progression ofNSCLC and other malignancies [33]. While activating KRAS muta-tions are uncommon in NSCLCs with squamous histology, they havebeen identiﬁed in 15–30% of those with adenocarcinoma histology"
+          },
+          {
+            "paragraph2": "[34–36].  There are no convincing data, however, that KRAS muta-tions confer resistance to EGFR inhibitors. Instead, because EGFRand KRAS mutations are mutually exclusive in the vast majority ofpatients, it seems that KRAS positivity may predict resistance toEGFR TKIs (since practically all of these patients are EGFR mutationnegative). Furthermore, there are no data to demonstrate that thosepatients who are KRAS positive are any more resistant to EGFR TKIsthan patients who are EGFR negative or KRAS negative. The reasonthen, to test for KRAS mutation status, is twofold: (1) those whoare KRAS positive do not require testing for EML4/ALK translocationand (2) these patients can be entered into clinical trials designedfor KRAS-positive patients."
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "4. Implications for pulmonologists"
+          },
+          {
+            "paragraph1": "While additional studies are necessary to further deﬁne the roleof these candidate predictive biomarkers in NSCLC, accumulatingevidence suggests that EGFR and KRAS mutations have therapeuticimplications and thus, mutational analysis is ﬁnding wider appli-cation in the clinic. Routine molecular testing of tumor tissue foruse in treatment determination represents a signiﬁcant paradigmshift in NSCLC therapy and therefore calls for a more streamlinedand standardized approach to specimen acquisition and processing."
+          },
+          {
+            "paragraph2": "It"
+          },
+          {
+            "paragraph3": " is essential that pulmonologists obtain samples of both sufﬁ-cient quality and quantity so that adequate specimen is availablefor both diagnosis and molecular analyses. Some of the invasiveand non-invasive approaches that can be adopted to obtain ade-quate amounts of tissue and appropriate ways to process them aredescribed below."
+          },
+          {
+            "section2": [
+              {
+                "section_title": "4.1. Tissue sampling techniques and considerations"
+              },
+              {
+                "paragraph1": "Tissue for tumor typing and molecular studies can be obtainedby a number of techniques ranging from noninvasive to surgical.Because the majority of patients with NSCLC have advanced dis-ease and are not eligible for surgery, nonsurgical procedures areusually a better choice. Several factors must be considered whendetermining appropriate diagnostic tests, including sensitivity andspeciﬁcity, false-negative and false-positive rates, procedure mor-bidity, and tumor location and characteristics [37]. It is important tooptimize tissue recovery while decreasing procedure-related mor-bidity [38].Sputum cytology is a noninvasive procedure particularly valu-able in patients with centrally located tumors [38]; however,tumor location and size affect sensitivity of this method, and rigor-ous specimen sampling is required to ensure diagnostic accuracy.Flexible bronchoscopy is minimally invasive and most effectivewith central lesions, but may also be used in conjunction withguided imaging to evaluate peripheral lesions [38]. Bronchoscopymay be performed with or without needle aspiration, which typ-ically obtains cytologic specimens. When larger-gauge needlesare used, core samples and material for cell block may also beobtained. Another minimally invasive sampling method, transtho-racic needle aspiration, may be used for peripheral, parenchymallesions; however, there is a high false-negative rate and a riskof pneumothorax associated with this procedure [38–41].  Someof these techniques may be supplemented with medical imag-ing, such as endobronchial ultrasound, to guide sampling, avoidsurgery, and improve yield and accuracy [37,38]. Endobronchialultrasound-guided transbronchial needle aspiration (EBUS-TBNA)is a minimally invasive procedure that produces high diagnosticyield allowing for combined pathologic and molecular analysis of"
+              },
+              {
+                "paragraph2": "134N.T. Tanner et al. / Lung Cancer 76 (2012) 131– 137"
+              },
+              {
+                "paragraph3": "Fig. 2. Geﬁtinib- and erlotinib-sensitizing mutations of EGFR in NSCLC. A cartoon representation of epidermal growth factor receptor (EGFR) showing the distribution ofexons"
+              },
+              {
+                "paragraph4": " in the extracellular domain (EGF binding), transmembrane domain (TM), and intracellular domain (comprising the tyrosine kinase and autophosphorylation regions).Exons"
+              },
+              {
+                "paragraph5": " 18–21 in the tyrosine kinase region where the relevant mutations are located are expanded and a detailed list of EGFR mutations in these exons that are associatedwith"
+              },
+              {
+                "paragraph6": " sensitivity to geﬁtinib or erlotinib is shown. Percentages are denoted for some mutations and exons, and the main mutations in each class are shown in bold."
+              },
+              {
+                "paragraph7": "metastatic lymph nodes [42]. The ideal methodology of EBUS-TBNAsample handling has recently been published, suggesting rapid on-site cytologic examination to conﬁrm adequate samples for bothmolecular testing and pathologic diagnosis [42]. If rapid on-sitecytology is not available, 3 aspirations per lymph node station or 2aspirations with 1 tissue core are recommended [43]. While EBUS-TBNA appears particularly promising, regardless of the approachused, it is essential for pulmonologists to conﬁrm that sufﬁcientsample is available to perform appropriate molecular analyses toguide treatment decisions."
+              }
+            ]
+          },
+          {
+            "section2": [
+              {
+                "section_title": "4.2. Molecular assays"
+              },
+              {
+                "paragraph1": "While larger tissue samples are preferable, diagnosticapproaches in NSCLC have shifted toward minimally invasiveprocedures [44]. Therefore, techniques have been developedwhereby molecular testing can be performed on smaller amountsof tissue and speciﬁc criteria for sample type, size, collection, andstorage have been published (Table 2) [44].It is important to select a well-validated and robust method forassessing mutation status to minimize false positive (which wouldindicate EGFR-TKI therapy for a patient more likely to beneﬁt from"
+              },
+              {
+                "paragraph2": "chemotherapy) or false negative (which would deny a mutation-positive patient from receiving optimal treatment) results. Directsequencing of polymerase chain reaction (PCR)-ampliﬁed regionsis the most common method of identifying EGFR and KRAS muta-tions [45], but because of issues with sensitivity and time involved,other techniques have been developed [45]. Sensitive and speciﬁcmutational testing kits for EGFR and KRAS are currently com-mercially available for research use (DxS TheraScreen® EGFR29,ResponseDXTM: Lung), and mutational analysis has also been per-formed in clinical trials.EGFR gene copy number can be assessed by a variety of meth-ods, including FISH, chromogenic in situ hybridization (CISH), andreal-time quantitative PCR [45]; however, EGFR ampliﬁcation hasfallen out of favor as a potential predictive marker in NSCLC. Mea-surement of EGFR expression by IHC is also not commonly used fordiagnosis, but a recent analysis from the FLEX trial suggests valueas a predictive marker with ﬁrst-line cetuximab, an EGFR-targetedmonoclonal antibody, in combination with chemotherapy in NSCLC"
+              },
+              {
+                "paragraph3": "[46].While the histologic classiﬁcation of lung cancer is generallynot difﬁcult to determine on surgical specimens, small biopsysamples or cytologic specimens may be inadequate for certain"
+              },
+              {
+                "paragraph4": "N.T. Tanner et al. / Lung Cancer 76 (2012) 131– 137135"
+              },
+              {
+                "paragraph5": "Table 2Specimen sampling in the preanalytical phase."
+              },
+              {
+                "paragraph6": "Parameter Recommendations"
+              },
+              {
+                "paragraph7": "Sample type• Tissue block is preferred•"
+              },
+              {
+                "paragraph8": " Cytology smears are not acceptablefor IHC or FISH•"
+              },
+              {
+                "paragraph9": " Records should be kept of sampletype (e.g., excision, biopsy, cytology)Minimum"
+              },
+              {
+                "paragraph10": " sample size• Required tumor tissue section area of∼1–2 mm2, excluding nontumor cellsand"
+              },
+              {
+                "paragraph11": " tissue areas• Cell number requirements: FISH,>100 assessable tumor cell nuclei;IHC/mutation, ∼2000 cells• High tumor cell content (50–70%tumor"
+              },
+              {
+                "paragraph12": " cells) required for directsequencingSample collection and storage• Standard ﬁxation in 10% neutralbuffered formalin and parafﬁnembedding;"
+              },
+              {
+                "paragraph13": " records should be kept ofﬁxative•"
+              },
+              {
+                "paragraph14": " Bouin’s or mercury-containingﬁxatives"
+              },
+              {
+                "paragraph15": " should be avoided• Sample should be stored as a block,not"
+              },
+              {
+                "paragraph16": " as precut slides•"
+              },
+              {
+                "paragraph17": " Sectioning dates should be recordedif slides are precutTumor"
+              },
+              {
+                "paragraph18": " heterogeneity• Intertumoral and intratumoralheterogeneity"
+              },
+              {
+                "paragraph19": " may confoundinterpretation•"
+              },
+              {
+                "paragraph20": " Ideally, ≥3 representative areasshould"
+              },
+              {
+                "paragraph21": " be assessed per tumor section"
+              },
+              {
+                "paragraph22": "Reprinted with permission. © 2008 American Society of Clinical Oncology. All rightsreserved"
+              },
+              {
+                "paragraph23": " [42].FISH: ﬂuorescence in situ hybridization; IHC: immunohistochemistry."
+              },
+              {
+                "paragraph24": "assays [47]. Guidelines for tumor tissue analysis by FISH, IHC, andother methods have been standardized and published (Table 2)"
+              },
+              {
+                "paragraph25": "[44]. Alternative methods of tissue acquisition are also underinvestigation. A recent publication reported 92% sensitivity (in"
+              },
+              {
+                "paragraph26": "11"
+              },
+              {
+                "paragraph27": " of 12 patients) for detection of EGFR mutations in circulat-ing tumor cells isolated from patients with metastatic NSCLC"
+              },
+              {
+                "paragraph28": "[32]."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "5. Future directions in individualized care for patients withNSCLC"
+          },
+          {
+            "paragraph1": "Further efforts toward individualizing therapy for NSCLC haveled to the investigation of other candidate biomarkers, includ-ing echinoderm microtubule-associated protein-like 4 (EML4) andanaplastic lymphoma kinase (ALK) fusion [48,49], although mostof these are speciﬁc to nonsquamous histology. Isoforms of theEML4–ALK transforming gene and its product have been identiﬁedin approximately 5% of patients with NSCLC, who are predomi-nantly younger and light or nonsmokers [50–53]. Patients withEML4/ALK-expressing NSCLC are generally resistant to EGFR-TKItherapy and have tumors with wild-type EGFR and KRAS [52,54].Several novel selective ALK inhibitors are in various stages ofdevelopment [53]. Most recently, crizotinib (Xalkori®), an oral ATP-competitive selective inhibitor of the ALK and cMet (also knownas hepatocyte growth factor receptor) tyrosine kinases [55], wasapproved for the treatment of patients with ALK-positive (by anapproved molecular test) locally advanced or metastatic NSCLCbased on results from an expansion cohort of a phase I study [56,57]"
+          },
+          {
+            "paragraph2": "and a phase II study [58].As our knowledge of molecular markers and their prognosticand therapeutic value in NSCLC has evolved, it is clear that incor-poration of testing for more common biomarkers into the initialworkup of patients with NSCLC is necessary. Horn and Pao havepreviously proposed sequential KRAS, EGFR, and EML4–ALK molec-ular testing based on the gene prevalence and implications of eachin NSCLC (Fig. 3) [53]. Currently, there are no data to support the ini-tial testing of only KRAS or EGFR mutations, and we instead suggestthe simultaneous testing of both EGFR and KRAS. If EGFR mutationtesting is positive, this has ﬁrst-line implications, and if KRAS is"
+          },
+          {
+            "paragraph3": "No further molecular testing:consider enrollment in a clinical trial with an ALK inhibitor"
+          },
+          {
+            "paragraph4": "Treat with conventional chemotherapy or enroll in a clinical trial with compounds targeting the mutation "
+          },
+          {
+            "paragraph5": "No further molecular testing Treat with EGFR-TKI"
+          },
+          {
+            "paragraph6": "No further molecular testing Treat with conventional chemotherapy or enroll in clinical trial designed for patients with KRAS mutation"
+          },
+          {
+            "paragraph7": "Lung adenocarcinoma"
+          },
+          {
+            "paragraph8": "EML4-ALK  translocation(present in 3-5%)"
+          },
+          {
+            "paragraph9": "Treat with conventionalchemotherapy"
+          },
+          {
+            "paragraph10": "Test for other mutations(eg, BRAF, MEK1, AKT1,PIK3CA, HER2,  etc)"
+          },
+          {
+            "paragraph11": "EGFR(present in 15-20%)"
+          },
+          {
+            "paragraph12": "KRAS(present in 20-30%)"
+          },
+          {
+            "paragraph13": "NO"
+          },
+          {
+            "paragraph14": "YESYES"
+          },
+          {
+            "paragraph15": "YES"
+          },
+          {
+            "paragraph16": "YES"
+          },
+          {
+            "paragraph17": "NO"
+          },
+          {
+            "paragraph18": "NO"
+          },
+          {
+            "paragraph19": "Fig. 3. Suggested algorithm for the molecular testing of patients with NSCLC of adenocarcinoma histology. Suggested order of testing for KRAS and EGFR mutations andEML4–ALK translocations and potential treatments based on mutation status."
+          },
+          {
+            "paragraph20": "136N.T. Tanner et al. / Lung Cancer 76 (2012) 131– 137"
+          },
+          {
+            "paragraph21": "positive, it is unlikely that EGFR will also be positive as the 2mutations are generally mutually exclusive. If KRAS is found to bepositive, patients can then be considered for enrollment in clinicaltrials. Fig. 3 shows a proposed molecular testing algorithm.The Biomarker-Integrated Approaches of Targeted Therapy forLung Cancer Elimination (BATTLE) program is the ﬁrst prospectivebiopsy-mandated study to assess candidate predictive biomark-ers as a means of guiding treatment choice in heavily pretreatedpatients with advanced NSCLC [59]. Fresh core needle biopsy wasperformed upfront to test for 11 biomarkers, including EGFR andKRAS mutation by PCR, and results from these analyses were usedto select treatment based on individual patient proﬁle. Patientswith EGFR mutation had an improved 8-week disease control ratewhen treated with erlotinib (5/7; 71%), while patients with KRASmutation did not respond well to erlotinib (2/9; 22%). The BAT-TLE program represents the ﬁrst trial to evaluate the efﬁcacy ofpersonalized therapy for NSCLC and ﬁnal results are awaited.As personalized medicine for NSCLC evolves, pulmonologistsand oncologists need to effectively integrate cytologic, molecular,and histologic tests to determine the most appropriate therapyfor each individual patient. In addition to the assays discussed,there is ongoing interest in developing and implementing new, lessinvasive techniques to determine prognosis and identify appropri-ate therapy for patients with NSCLC. Potential future approachesinclude utilizing advances in imaging technology as well as serumtesting for cell-free tumor nucleic acids.In conclusion, results from several randomized phase III trialsemphasize the importance of molecular testing prior to initiat-ing ﬁrst-line therapy for advanced NSCLC. Increasing evidencedemonstrates that patients with EGFR mutations experience signif-icant beneﬁt with geﬁtinib or erlotinib vs standard chemotherapy,with an opposite effect occurring in patients with EGFR-mutationnegative tumors. As molecular testing becomes standard clinicalpractice, pulmonologists will play a vital role in ensuring samplesof adequate quality and quantity are available for these purposes."
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "Conﬂict of interest"
+          },
+          {
+            "paragraph1": "None declared."
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "Acknowledgements"
+          },
+          {
+            "paragraph1": "Financial"
+          },
+          {
+            "paragraph2": " support for medical and editorial assistance wasprovided by Boehringer Ingelheim Pharmaceuticals. The authorsreceived no compensation related to the development of themanuscript. Writing and editorial assistance was provided by LisaShannon, PharmD of MedErgy, which was contracted by BoehringerIngelheim Pharmaceuticals for these services. The authors meetcriteria for authorship as recommended by the International Com-mittee of Medical Journal Editors (ICMJE), were fully responsible forall content and editorial decisions, and were involved at all stagesof manuscript development."
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "References"
+          },
+          {
+            "paragraph1": "[1] American Cancer Society. Cancer facts & ﬁgures, 2010. Atlanta, GA: AmericanCancer Society; 2010.[2] National Comprehensive Cancer Network. NCCN Clinical Practice Guidelinesin OncologyTM. Non-small cell lung cancer. V.3.2011. http://www.nccn.org/professionals/physician gls/PDF/nscl.pdf [accessed May 21, 11 A.D].[3] Bunn Jr PA, Franklin W. Epidermal growth factor receptor expression, sig-nal  pathway, and inhibitors in non-small cell lung cancer. Semin Oncol2002;29:38–44.[4] Gazdar AF. Personalized medicine and inhibition of EGFR signaling in lungcancer. N Engl J Med 2009;361:1018–20.[5] Silvestri GA, Rivera MP. Targeted therapy for the treatment of advanced non-small cell lung cancer: a review of the epidermal growth factor receptorantagonists. Chest 2005;128:3975–84."
+          },
+          {
+            "paragraph2": "[6]"
+          },
+          {
+            "paragraph3": " Sharma SV, Bell DW, Settleman J, Haber DA. Epidermal growth factor receptormutations in lung cancer. Nat Rev Cancer 2007;7:169–81.[7] Tarceva® (erlotinib tablets) [package insert]. South San Franscisco, CA: Genen-tech Inc.[8] Iressa® (geﬁtinib tablets) [package insert]. Wilmington, DE: AstraZeneca Phar-maceuticals LP.[9] Horiike A, Kimura H, Nishio K, Ohyanagi F, Satoh Y, Okumura S, et al. Detection ofepidermal growth factor receptor mutation in transbronchial needle aspiratesof non-small cell lung cancer. Chest 2007;131:1628–34.[10] Pao W, Miller VA. Epidermal growth factor receptor mutations, small-moleculekinase inhibitors, and non-small-cell lung cancer: current knowledge andfuture directions. J Clin Oncol 2005;23:2556–68.[11] Giaccone G, Rodriguez JA. EGFR inhibitors: what have we learned from thetreatment of lung cancer? Nat Clin Pract Oncol 2005;2:554–61.[12] Hirsch FR, Varella-Garcia M, Bunn Jr PA, Franklin WA, Dziadziuszko R, ThatcherN,  et al. Molecular predictors of outcome with geﬁtinib in a phase IIIplacebo-controlled study in advanced non-small-cell lung cancer. J Clin Oncol2006;24:5034–42.[13] Shepherd FA, Rodrigues Pereira J, Ciuleanu T, Tan EH, Hirsh V, Thongprasert S,et al. Erlotinib in previously treated non-small-cell lung cancer. N Engl J Med2005;353:123–32.[14] Tsao MS, Sakurada A, Cutz JC, Zhu CQ, Kamel-Reid S, Squire J, et al. Erlotinibin lung cancer – molecular and clinical predictors of outcome. N Engl J Med2005;353:133–44.[15] Rosell R, Moran T, Queralt C, Porta R, Cardenal F, Camps C, et al. Screeningfor  epidermal growth factor receptor mutations in lung cancer. N Engl J Med2009;361:958–67.[16] Mok TS, Wu  YL, Thongprasert S, Yang CH, Chu DT, Saijo N, et al. Geﬁ-tinib or carboplatin–paclitaxel in pulmonary adenocarcinoma. N Engl J Med2009;361:947–57.[17] Lee JS, Park K, Kim SW, Lee DH, Kim HT, Ham JY, et al. A randomized phaseIII study of geﬁtinib (IRESSATM) versus standard chemotherapy (gemcitabineplus cisplatin) as a ﬁrst-line treatment for never-smokers with advancedor metastatic adenocarcinoma of the lung. J Thorac Oncol 2009;4(9 Suppl.1):S283–4. Abstract PRS.4.[18] Mitsudomi T, Morita S, Yatabe Y, Negoro S, Okamoto I, Tsurutani J, et al.Geﬁtinib versus cisplatin plus docetaxel in patients with non-small-celllung cancer harbouring mutations of the epidermal growth factor receptor(WJTOG3405): an open label, randomised phase 3 trial. Lancet Oncol 2010;11:121–8.[19] Maemondo M, Inoue A, Kobayashi K, Sugawara S, Oizumi S, Isobe H, et al. Geﬁ-tinib or chemotherapy for non-small-cell lung cancer with mutated EGFR. NEngl J Med 2010;362:2380–8.[20] Inoue A, Kobayashi K, Maemondo M,  Sugawara S, Oizumi S, Isobe H, et al.Final overall survival results of NEJ002, a phase III trial comparing geﬁtinibto carboplatin (CBDCA) plus paclitaxel (TXL) as the ﬁrst-line treatment foradvanced non-small cell lung cancer (NSCLC) with EGFR mutations. J Clin Oncol2011;29(Suppl.). Abstract 7519.[21] Zhou C, Wu Y-L, Chen G, Feng J, Liu X, Wang C, et al. Efﬁcacy results from the ran-domised phase III OPTIMAL (CTONG 0802) study comparing ﬁrst-line erlotinibversus carboplatin (CBDCA) plus gemcitabine (GEM), in Chinese advanced non-small-cell lung cancer (NSCLC) patients (pts) with EGFR activating mutations.Ann  Oncol 2010;21(Suppl. 8), viii6, Abstract LBA13.[22] Zhou C, Wu YL, Chen G, Feng JF, Liu X, Wang C, et al. Updated efﬁcacy andquality-of-life (QoL) analyses in OPTIMAL, a phase III, randomized, open-labelstudy of ﬁrst-line erlotinib versus gemcitabine/carboplatin in patients withEGFR-activating mutation-positive (EGFR Act Mut+) advanced non-small celllung cancer (NSCLC). J Clin Oncol 2011;29(Suppl.). Abstract 7520.[23] Rosell R, Gervais R, Vergnenegre A, Massuti B, Felip E, Cardenal F, et al. Erlotinibversus chemotherapy (CT) in advanced non-small cell lung cancer (NSCLC)patients (p) with epidermal growth factor receptor (EGFR) mutations: interimresults of the European erlotinib versus chemotherapy (EURTAC) phase III ran-domized trial. J Clin Oncol 2011;29(Suppl.). Abstract 7503.[24] Mok T, Spigel DR, Park K, Socinski MA, Tung SY, Kim D-W, et al. Efﬁcacy andsafety of PF299804 as ﬁrst-line treatment (TX) of patients (pts) with advanced(adv) NSCLC selected for activating mutation (mu) of epidermal growth factorreceptor (EGFR). Ann Oncol 2010;21(Suppl. 8), viii8, Abstract LBA18.[25] Fukuoka M, Wu YL, Thongprasert S, Sunpaweravong P, Leong SS, Sriuranpong V,et al. Biomarker analyses and ﬁnal overall survival results from a phase III, ran-domized, open-label, ﬁrst-line study of geﬁtinib versus carboplatin/paclitaxelin clinically selected patients with advanced non-small-cell lung cancer in Asia(IPASS). J Clin Oncol 2011;29:2866–74.[26] Kobayashi S, Boggon TJ, Dayaram T, Janne PA, Kocher O, Meyerson M, et al. EGFRmutation and resistance of non-small-cell lung cancer to geﬁtinib. N Engl J Med2005;352:786–92.[27] Pao W, Miller VA, Politi KA, Riely GJ, Somwar R, Zakowski MF, et al. Acquiredresistance of lung adenocarcinomas to geﬁtinib or erlotinib is associatedwith a second mutation in the EGFR kinase domain. PLoS Med 2005;2:e73.[28] Kosaka T, Yatabe Y, Endoh H, Yoshida K, Hida T, Tsuboi M, et al. Analysisof  epidermal growth factor receptor gene mutation in patients with non-small cell lung cancer and acquired resistance to geﬁtinib. Clin Cancer Res2006;12:5764–9.[29] Kosaka T, Yatabe Y, Endoh H, Kuwano H, Takahashi T, Mitsudomi T. Mutationsof the epidermal growth factor receptor gene in lung cancer: biological andclinical implications. Cancer Res 2004;64:8919–23."
+          },
+          {
+            "paragraph4": "N.T. Tanner et al. / Lung Cancer 76 (2012) 131– 137137"
+          },
+          {
+            "paragraph5": "[30] Bell DW, Gore I, Okimoto RA, Godin-Heymann N, Sordella R, Mulloy R, et al.Inherited susceptibility to lung cancer may be associated with the T790M drugresistance mutation in EGFR. Nat Genet 2005;37:1315–6.[31] Inukai M,  Toyooka S, Ito S, Asano H, Ichihara S, Soh J, et al. Presence of epidermalgrowth factor receptor gene T790M mutation as a minor clone in non-small celllung cancer. Cancer Res 2006;66:7854–8.[32] Maheswaran S, Sequist LV, Nagrath S, Ulkus L, Brannigan B, Collura CV, et al.Detection of mutations in EGFR in circulating lung-cancer cells. N Engl J Med2008;359:366–77.[33] Siena S, Sartore-Bianchi A, Di NF, Balfour J, Bardelli A. Biomarkers predict-ing clinical outcome of epidermal growth factor receptor-targeted therapy inmetastatic colorectal cancer. J Natl Cancer Inst 2009;101:1308–24.[34] Pao W,  Wang TY, Riely GJ, Miller VA, Pan Q, Ladanyi M, et al. KRAS mutationsand primary resistance of lung adenocarcinomas to geﬁtinib or erlotinib. PLoSMed 2005;2:e17.[35] Riely GJ, Kris MG, Rosenbaum D, Marks J, Li A, Chitale DA, et al. Frequency anddistinctive spectrum of KRAS mutations in never smokers with lung adenocar-cinoma. Clin Cancer Res 2008;14:5731–4.[36] Riely GJ, Marks J, Pao W.  KRAS mutations in non-small cell lung cancer. ProcAm  Thorac Soc 2009;6:201–5.[37] Gomez M, Silvestri GA. Endobronchial ultrasound for the diagnosis and stagingof lung cancer. Proc Am Thorac Soc 2009;6:180–6.[38] Rivera MP, Mehta AC. Initial diagnosis of lung cancer: ACCP evidence-basedclinical practice guidelines (2nd edition). Chest 2007;132:S131–48.[39] Li H, Boiselle PM, Shepard JO, Trotman-Dickenson B, McLoud TC. Diagnosticaccuracy and safety of CT-guided percutaneous needle aspiration biopsy of thelung: comparison of small and large pulmonary nodules. AJR Am J Roentgenol1996;167:105–9.[40] vanSonnenberg E, Casola G, Ho M,  Neff CC, Varney RR, Wittich GR, et al. Dif-ﬁcult thoracic lesions: CT-guided biopsy experience in 150 cases. Radiology1988;167:457–61.[41] Kazerooni EA, Lim FT, Mikhail A, Martinez FJ. Risk of pneumothorax inCT-guided transthoracic needle aspiration biopsy of the lung. Radiology1996;198:371–5.[42]  Nakajima T, Yasufuku K. How I do it – optimal methodology for multidirectionalanalysis of endobronchial ultrasound-guided transbronchial needle aspirationsamples. J Thorac Oncol 2011;6:203–6.[43] Lee HS, Lee GK, Lee HS, Kim MS, Lee JM, Kim HY, et al. Real-time endobronchialultrasound-guided transbronchial needle aspiration in mediastinal staging ofnon-small cell lung cancer: how many aspirations per target lymph node sta-tion? Chest 2008;134:368–74.[44] Eberhard DA, Giaccone G, Johnson BE. Biomarkers of response to epidermalgrowth factor receptor inhibitors in Non-Small-Cell Lung Cancer WorkingGroup: standardization for use in the clinical trial setting. J Clin Oncol2008;26:983–94.[45] John T, Liu G, Tsao MS. Overview of molecular testing in non-small-cell lungcancer: mutational analysis, gene copy number, protein expression and other"
+          },
+          {
+            "paragraph6": "biomarkers"
+          },
+          {
+            "paragraph7": " of EGFR for the prediction of response to tyrosine kinase inhibitors.Oncogene 2009;28(Suppl. 1):S14–23.[46] Pirker R, Paz Ares L, Eberhardt WEE, Krzakowski M, Störkel S, Heeger S, et al. Epi-dermal growth factor receptor (EGFR) expression as a predictor of survival forﬁrst-line chemotherapy plus cetuximab in FLEX study patients with advancednon-small cell lung cancer (NSCLC). J Thorac Oncol 2011;6(6 Suppl. 2):S276.Abstract O01.06.[47] Rossi G, Pelosi G, Graziano P, Barbareschi M,  Papotti M. A reevaluation of theclinical signiﬁcance of histological subtyping of non–small-cell lung carcinoma:diagnostic algorithms in the era of personalized treatments. Int J Surg Pathol2009;17:206–18.[48] Soda M, Choi YL, Enomoto M, Takada S, Yamashita Y, Ishikawa S, et al. Identiﬁca-tion of the transforming EML4–ALK fusion gene in non-small-cell lung cancer.Nature 2007;448:561–6.[49] Rikova K, Guo A, Zeng Q, Possemato A, Yu J, Haack H, et al. Global survey ofphosphotyrosine signaling identiﬁes oncogenic kinases in lung cancer. Cell2007;131:1190–203.[50] Choi YL, Takeuchi K, Soda M, Inamura K, Togashi Y, Hatano S, et al. Identiﬁcationof novel isoforms of the EML4–ALK transforming gene in non-small cell lungcancer. Cancer Res 2008;68:4971–6.[51] Mano H. Non-solid oncogenes in solid tumors: EML4–ALK fusion genes in lungcancer. Cancer Sci 2008;99:2349–55.[52] Wong DW, Leung EL, So KK, Tam IY, Sihoe AD, Cheng LC, et al. The EML4–ALKfusion gene is involved in various histologic types of lung cancers from non-smokers with wild-type EGFR and KRAS. Cancer 2009;115:1723–33.[53] Horn L, Pao W. EML4–ALK: honing in on a new target in non-small-cell lungcancer. J Clin Oncol 2009;27:4232–5.[54] Shaw AT, Yeap BY, Mino-Kenudson M, Digumarthy SR, Costa DB, Heist RS, et al.Clinical features and outcome of patients with non-small-cell lung cancer whoharbor EML4–ALK. J Clin Oncol 2009;27:4247–53.[55] Christensen JG, Schreck R, Burrows J, Kuruganti P, Chan E, Le P, et al. A selectivesmall molecule inhibitor of c-Met kinase inhibits c-Met-dependent pheno-types in vitro and exhibits cytoreductive antitumor activity in vivo. Cancer Res2003;63:7345–55.[56] Camidge DR, Bang Y, Kwak EL, Shaw AT, Iafrate AJ, Maki RG, et al. Progression-free survival (PFS) from a phase I study of crizotinib (PF-02341066) in patientswith ALK-positive non-small cell lung cancer (NSCLC). J Clin Oncol 2011:29.[57] Kwak EL, Bang YJ, Camidge DR, Shaw AT, Solomon B, Maki RG, et al. Anaplas-tic lymphoma kinase inhibition in non-small-cell lung cancer. N Engl J Med2010;363:1693–703.[58] Crino L, Kim D, Riely GJ, Janne PA, Blackhall FH, Camidge DR, et al. Initial phaseII results with crizotinib in advanced ALK-positive non-small cell lung cancer(NSCLC): PROFILE 1005. J Clin Oncol 2011;29(15s). Abstract 7514.[59] Kim ES, Herbst RS, Lee JJ, Blumenschein GRJ, Tsao A, Alden CM, et al. The BAT-TLE  trial (biomarker-integrated approaches of targeted therapy for lung cancerelimination): personalizing therapy for lung cancer. In: 101st annual meetingof the American association for cancer research. 2010."
+          }
+        ]
+      }
+    ]
+  }
+]

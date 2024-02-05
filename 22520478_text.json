@@ -1,0 +1,632 @@
+[
+  {
+    "metatada": [
+      {
+        "Paper_title": "Molecular Profiling to Optimize Treatment in Non-Small Cell Lung Cancer: A Review of Potential Molecular Targets for Radiation Therapy by the Translational Research Program of the Radiation Therapy Oncology Group"
+      },
+      {
+        "Author": "Natalie L. Ausborn, B.S.,* Quynh Thu Le, M.D.,y Jeffrey D. Bradley, M.D.,z "
+      },
+      {
+        "Abstract": "The Translational Research Program of the Radiation Therapy Oncology Group provides a review of molec- ular pathways that can be tar- geted in conjunction with radiation therapy in patients with advanced non-small cell lung cancer and strategies for "
+      },
+      {
+        "Keywords": " Non-small cell lung cancer, Genomic signatures, Molecular markers, Radiation therapy, Chemotherapy "
+      }
+    ]
+  },
+  {
+    "body_text": [
+      {
+        "section1": [
+          {
+            "section_title": "Molecular Proﬁling to Optimize Treatment in Non-SmallCell Lung Cancer: A Review of Potential Molecular Targetsfor Radiation The"
+          },
+          {
+            "paragraph1": "rapy by the Translational ResearchProgram of the Radiation Therapy Oncology Group"
+          },
+          {
+            "paragraph2": "Natalie L. Ausborn, B.S.,* Quynh Thu Le, M.D.,y Jeffrey D. Bradley, M.D.,z"
+          },
+          {
+            "paragraph3": "Hak Choy, M.D.,x Adam P. Dicker, M.D., Ph.D.,k Debabrata Saha, Ph.D.,x"
+          },
+          {
+            "paragraph4": "Jeff Simko, M.D., Ph.D.,{ Michael D. Story, Ph.D.,x Artour Torossian, B.S.,*and Bo Lu, M.D., Ph.D.k"
+          },
+          {
+            "paragraph5": "*Department of Radiation Oncology, Vanderbilt University School of Medicine, Nashville, Tennessee; yDepartment ofRadiation Oncology, Stanford University, Palo Alto, California; zDepartment of Radiation Oncology, WashingtonUniversity School of Medicine, St. Louis, Missouri; xDepartment of Radiation Oncology, University of Texas SouthwesternMedical Center, Dallas, Texas; kDepartment of Radiation Oncology, Jefferson Medical College of Thomas JeffersonUniversity, Philadelphia, Pennsylvania; and {Department of Urology, University of California, San Francisco, California"
+          },
+          {
+            "paragraph6": "Received Oct 18, 2011, and in revised form Jan 17, 2012. Accepted for publication Jan 17, 2012"
+          },
+          {
+            "paragraph7": "Summary"
+          },
+          {
+            "paragraph8": "The Translational ResearchProgram of the RadiationTherapy Oncology Groupprovides a review of molec-ular pathways that can be tar-geted in conjunction withradiation therapy in patientswith advanced non-small celllung cancer and strategies for"
+          },
+          {
+            "paragraph9": "Therapeutic decisions in non-small cell lung cancer (NSCLC) have been mainly based ondisease stage, performance status, and co-morbidities, and rarely on histological or molecularclassiﬁcation. Rather than applying broad treatments to unselected patients that may result insurvival increase of only weeks to months, research efforts should be, and are being, focusedon identifying predictive markers for molecularly targeted therapy and determining genomicsignatures that predict survival and response to speciﬁc therapies. The availability of such tar-geted biologics requires their use to be matched to tumors of corresponding molecular vulner-ability for maximum efﬁcacy. Molecular markers such as epidermal growth factor receptor(EGFR), K-ras, vascular endothelial growth factor (VEGF), mammalian target of rapamycin(mTOR), and anaplastic lymphoma kinase (ALK) represent potential parameters guide treat-ment decisions. Ultimately, identifying patients who will respond to speciﬁc therapies will allowoptimal efﬁcacy with minimal toxicity, which will result in more judicious and effective"
+          },
+          {
+            "paragraph10": "Reprint requests to: Bo Lu, M.D., Ph.D., Department of RadiationOncology, Jefferson Medical College of Thomas Jefferson University, 111South 11th Street, Room G-301N, Bodine Center, Philadelphia, PA 19107.Tel:(215)955-6705;Fax:(215)955-0412; E-mail:bo.lu@jeffersonhospital.org"
+          },
+          {
+            "paragraph11": "Conﬂict of interest: The following authors declare potential conﬂicts ofinterest: Quynh Thu Le, GlaxoSmithKline and Varian Corporation grantsupport; Debabrata Saha, BMS and Pﬁzer grant support; Jeff Simko,consultancies with the National Cancer Institute and Genomic HealthIncorporated, and expert testimonies for urologic cancers with Tinker and"
+          },
+          {
+            "paragraph12": "Associates, Beltran and Associates, Miller and Associates, and Piccarattaand Davis; Michael D. Story, consultancies with Galera Therapeutics,grant support from Varian Corporation, and Easai Inc; and Bo Lu,Supergen grant support. The following authors declare no potentialconﬂicts of interest: Natalie L. Ausborn, Jeffrey D. Bradley, Hak Choy,Adam P. Dicker, and Artour Torossian.AcknowledgmentsdThe authors acknowledge the assistance of Ms.Frances Bradley of the Radiation Therapy Oncology Group (RTOG).This work is supported in part by NCI 1R01 CA125842-01A1. The RTOGis funded by NCI grant U10CA21661."
+          },
+          {
+            "paragraph13": "Int J Radiation Oncol Biol Phys, Vol. 83, No. 4, pp. e453ee464, 20120360-3016/$ - see front matter � 2012 Elsevier Inc. All rights reserved.doi:10.1016/j.ijrobp.2012.01.056"
+          },
+          {
+            "paragraph14": "Radiation Oncology"
+          },
+          {
+            "paragraph15": "International Journal of"
+          },
+          {
+            "paragraph16": "biologyphysics"
+          },
+          {
+            "paragraph17": "www.redjournal.org"
+          },
+          {
+            "paragraph18": "their selection. Only a tailoredapproach based on tumorgenetic make-up will likelyresult in signiﬁcantlyimproved survival in thesepatients."
+          },
+          {
+            "paragraph19": "application of expensive targeted therapy as the new paradigm of personalized medicinedevelops. � 2012 Elsevier Inc."
+          },
+          {
+            "paragraph20": "Keywords: Non-small cell lung cancer, Genomic signatures, Molecular markers, Radiationtherapy, Chemotherapy"
+          },
+          {
+            "section2": [
+              {
+                "section_title": "Introduction"
+              },
+              {
+                "paragraph1": "Currently, therapeutic decisions in non-small cell lung cancer(NSCLC) are based on disease stage, performance status, and co-morbidities, not on molecular classiﬁcation. Although treatment isgeneralized, NSCLC is a heterogeneous disease. Even in tumorsbearing similar clinical and/or histologic features, different treat-ment outcomes are observed. Thus, there is strong interest indeveloping new molecular tools to predict survival and to identifypatients who may beneﬁt from targeted therapies. However, forthese molecular assays to be useful, they need to be well integratedinto the current work ﬂow of the clinic; the team would need toobtain relevant molecular data on each patient’s tumor in a timelymanner without undue treatment delay, and design appropriatetreatment regimen based on results of these genomic tests (1). In thisreview, we discuss molecular pathways that can be targeted inconjunction with radiation therapy (RT) in patients with advancedNSCLC and strategies for their selection (Fig.1)."
+              }
+            ]
+          },
+          {
+            "section2": [
+              {
+                "section_title": "Molecular Targets"
+              },
+              {
+                "section3": [
+                  {
+                    "section_title": "EGFR"
+                  },
+                  {
+                    "paragraph1": "One of the most important cellular targets overexpressed in NSCLCis epidermal growth factor receptor (EGFR). The prototypicalpatient with EGFR-mutant NSCLC is a young, Asian, female,nonsmokingpatientwithadenocarcinoma.AberrantEGFRexpression can stem from mutation L858R (exon 21), in-framedeletions (exon 19), or gene ampliﬁcation (2). Abnormalities inthe EGFR signaling pathway thus provide a tangible target forcustomizing treatment with EGFR tyrosine kinase inhibitors(TKIs), which are now approved ﬁrst-line treatment for thesetumors. Although responses to ﬁrst-generation TKIs have beenimpressive, emergence of new mutations, such as T790M (exon 20),ultimately result in treatment resistance (2). This resistance has ledto the development of second-generation TKIs."
+                  },
+                  {
+                    "paragraph2": "Second-generation TKIs"
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "The second-generation TKIs are irreversible inhibitors of otherHuman Epidermal growth factor Receptor (HER) family membersin addition to EGFR. BIBW2992 inhibits EGFR and HER2,whereas PF-00299804 is a pan-HER inhibitor. In a BIBW2992phase I trial, 3 NSCLC patients with exon 19 deletions experi-encedsustainedpartialresponsesupto34months(3).PF-00299804 inhibits both EGFR-activating mutations as well asthe T790M resistance mutation (4). A phase I study of PF-00299804 found that adverse effects were mild. Four of 57NSCLC patients, all were previously treated with ﬁrst-generationTKIs, had a partial response (5). Preliminary results of a phase II"
+                      },
+                      {
+                        "paragraph1": "trial of PF-00299804 in K-ras wild-type NSCLC after erlotinibfailure demonstrate stable disease in 9 of 18 adenocarcinomapatients and in 1 of 2 non-adenocarcinoma patients (6).Second-generation TKI trials focus mainly on patients whodeveloped resistance to ﬁrst-generation TKIs. Phase II/III trials ofBIBW2992 in selected NSCLC patients are currently underway,one of which is investigating T790M development suppression(7). LUX-Lung 5 and LUX-Lung 6 are investigating BIBW 2992in patients who failed erlotinib/geﬁtinib and EGFR mutation-positive adenocarcinoma, respectively. Although the focus ofsecond-generation TKIs is on preventing or overcoming resis-tance, they should also be evaluated in conjunction with tumorsharboring K-ras mutations, which have also been correlated withﬁrst-generation TKI resistance (8).Increased EGFR expression has been associated with radio-resistance (9). Combination RT and BIBW2992 therapy wasinvestigated in FaDu head-and-neck squamous cell carcinoma(SCC) cells (10). Radiosensitivity of FaDu cells after pre-incubation with BIBW2992 was marginally, although statisti-cally signiﬁcantly, increased. Enhancement ratios were smaller forirradiated than for nonirradiated tumors, suggesting an additiverather than synergistic effect for BIBW2992 combination with RT."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "section3": [
+                  {
+                    "section_title": "K-ras"
+                  },
+                  {
+                    "paragraph1": "K-ras is considered one of the most commonly mutated proto-oncogenes in human cancers. Preclinical studies have illustratedoncogenic K-ras plays a role in tumor cell RT resistance, andgenetic inactivation of K- or N-ras in tumor cell lines has beenshown to increase radiosensitivity (11). However, only onespeciﬁc Ras inhibitor, salirasib, is currently in clinical studies forNSCLC. A phase II trial in adenocarcinoma-type NSCLC hasreleased preliminary results. Following 10 weeks of treatment,28% of previously treated K-ras mutation-positive patients and38% of previously untreated patients who were former smokershad stable disease (12).Two distinct molecular pathways are involved in lung cancer:K-ras mutations in smokers and EGFR mutations in never-smokers. K-ras encodes a GTPase downstream of EGFR, whichmay provide a biological explanation for why EGFR and K-rasmutations appear mutually exclusive. The presence of somaticK-ras mutations appears to be associated with a lack of sensitivityto geﬁtinib and erlotinib (8). Therefore, K-ras mutational status(or lack thereof) may be an important predictive factor in deﬁningpatients who will beneﬁt most from ﬁrst-generation TKIs."
+                  }
+                ]
+              },
+              {
+                "section3": [
+                  {
+                    "section_title": "Angiogenesis"
+                  },
+                  {
+                    "paragraph1": "Angiogenesis has emerged as an anticancer target, as many believethat new vessel growth is necessary for tumor proliferation.Angiogenesis can be induced by various factors, including vascular"
+                  },
+                  {
+                    "paragraph2": "Ausborn et al.International Journal of Radiation Oncology � Biology � Physicse454"
+                  },
+                  {
+                    "paragraph3": "endothelial growth factor (VEGF), platelet-derived growth factor(PDGF), and ﬁbroblast growth factor (FGF). VEGF inhibition canbe achieved with ligand antibody or TKI inhibition of VEGFR.However, a proposed mechanism of resistance is the ability oftumor cells to upregulate other angiogenesis pathways, such asPDGF and FGF (13). Therefore, TKIs with ability to block severalreceptors, such as PDGFR and FGFR, may be more efﬁcacious."
+                  },
+                  {
+                    "paragraph4": "Bevacizumab"
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "Bevacizumab is a humanized VEGF monoclonal antibody. First-line bevacizumab use in advanced NSCLC is largely based onresults of Eastern Cooperative Oncology Group (ECOG) trial 4599,which showed a 2-month survival increase when combined withplatinum-based therapy (14). Preliminary phase I/II trial datademonstrate serious toxicities such as hemoptysis or ﬁstulas(tracheal, bronchial, or esophageal) with concurrent bevacizumaband RT application (15). Similarly, a phase II trial of bevacizumabplus chemoradiation was ended prematurely because of trache-oesophageal ﬁstula development (16). The Southwestern OncologyGroup (SWOG) is sponsoring a phase I/II trial combining cisplatin,etoposide, RT, and bevacizumab with docetaxel and bevacizumabconsolidation in three different NSCLC patient populations. Thistrial will provide valuable information on the safety of this multi-modality approach.The temporal relationship between RT and bevacizumabadministration may be important. Using ovarian and breast carci-noma and melanoma xenografts, Dings et al illustrated enhancedtumor growth inhibition when RT was given several days after"
+                      },
+                      {
+                        "paragraph1": "bevacizumab administration. This period coincided with the “tumoroxygenation” window, during which tumor oxygen levels improvewith pruning of microvessel density (17). It would be interesting tostudy this vascular normalization phenomenon in NSCLC toinvestigate optimal administration of bevacizumab and RT."
+                      },
+                      {
+                        "paragraph2": "Axitinib"
+                      }
+                    ]
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "Axitinib is a TKI of VEGFR-1, VEGFR-2, VEGFR-3, PDGFR,and c-kit. A phase I trial of 36 solid tumor patients found anmaximum tolerated dose (MTD) of 5 mg twice daily (18). The 2enrolled NSCLC patients both had tumor cavitation, indicating anantiangiogenic effect, and subsequently died of hemoptysis. Ina phase II trial of axitinib monotherapy in 32 NSCLC patients,75% of whom had adenocarcinoma, the median overall survival(OS) was 14.8 months, and progression-free survival (PFS) was4.9 months (19).Fenton et al found that combined axitinib and RT in DU145human prostate xenografts produced better tumor response thaneither monotherapy. Compared to the response in controls,vascular density progressively declined and overall tumor hypoxiaincreased. However, reductions in total and perfused vessels wereproportionate, indicating combination therapy did not speciﬁcallytarget functional vasculature (20). Fenton et al further aimed toevaluate whether the sequencing of axitinib and RT would affecttherapeutic response, and tumor growth inhibition was found to beequivalent for each treatment schedule, suggesting that post- orpre-irradiation drug administration serves equally well in sup-plementing RT (21)."
+                      },
+                      {
+                        "paragraph1": "BIBF 1120"
+                      }
+                    ]
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "BIBF 1120 is an inhibitor of VEGFR, FGFR, and PDGFR. A phase Istudy of BIBF 1120 and pemetrexed in 26 NSCLC patients foundthat all patients experienced an adverse event, although mostadverse events were of low severity. One patient experiencedcomplete response 44 days after initiating medication, and was stillin complete response at the study conclusion (>3.5 years later).MTD of BIBF 1120 in combination with standard pemetrexed was200 mg twice daily (22). In a phase II study, NSCLC patients treatedwith BIBF 1120 after failure of platinum therapy had a median PFSof 6.9 weeks and median OS of 21.9 weeks (23).The effect of BIBF 1120 on tumor radiation response has alsobeen studied. Zips et al treated poorly differentiated SCC FaDu innude mice with BIBF 1120. Although BIBF 1120 signiﬁcantlyreduced vessel perfusion and tumor growth rate, tumor hypoxia,and radiation sensitivity of tumor stem cells were not affected.Concurrent BIBF 1120 also had no effect on local tumor controlafter RT (24). Further investigation regarding mechanisms ofinteraction between anti-angiogenic agents and RT is warranted."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "section3": [
+                  {
+                    "section_title": "mTOR/PI3K"
+                  },
+                  {
+                    "paragraph1": "The mammalian target of rapamycin (mTOR) pathway has beenshown to be constitutively activated in an estimated 74% of resectedNSCLC malignancies (25). Rapamycin analogues and dual PI3K/mTOR inhibitors inhibit signal transduction downstream of mTOR.Preclinical studies have demonstrated inhibition of tumor prolif-eration by rapamycin and its analogues in several cancer xenografts,including NSCLC (26). In addition, persistent PI3K/Akt/mTORpathway activation has been associated with resistance to anti-EGFR drugs (27), suggesting a beneﬁt of proﬁling for mTOR/PI3K pathway alterations to optimize EGFR therapy."
+                  },
+                  {
+                    "paragraph2": "Fig.Summary of potential molecular targets and therapeuticagents. Potential molecular targets include receptor tyrosine kinasesand intracellular signaling molecules, which promote tumor cellproliferation, survival, and angiogenesis. Therapeutic agentstargeting these kinases and pathways are shown. Abbreviations:EGFR Z epidermal growth factor receptor; ERK Z extracellularsignal-regulated kinase; FGFR Z ﬁbroblast growth factor receptor;HER Z human epidermal growth factor receptor; mTOR Zmammalian target of rapamycin; PDGFR Z platelet-derivedgrowth factor receptor; PI3K Z phosphatidylinositol 3-kinase;VEGFR Z vascular endothelial growth factor receptor."
+                  },
+                  {
+                    "paragraph3": "Volume 83 � Number 4 � 2012Molecular proﬁling to optimize treatment in NSCLC e455"
+                  },
+                  {
+                    "paragraph4": "Ekshyyan et al compared cisplatin to the rapamycin analogueCCI-779 as a radiosensitizer in preclinical studies (28). CombinedCCI-779 and RT inhibited head-and-neck SCC tumor growth by>90% and more than doubled survival compared with RT alone.Similarly, use of dual PI3K/mTOR inhibitor BEZ235 was shownto sensitize NSCLC cancer cells to radiation (29), and targetingPI3K with inhibitor LY294002 was found to synergisticallyenhance radiation efﬁcacy in bladder cancer cells (30). Thisinhibition of the PI3K pathway, independent of mTOR inhibition,could be useful clinically. In the future, it will be important todetermine cellular networks responsible for the antitumor effectsinduced by PI3K/mTOR blockade to optimize clinical response."
+                  }
+                ]
+              },
+              {
+                "section3": [
+                  {
+                    "section_title": "ALK"
+                  },
+                  {
+                    "paragraph1": "The anaplastic lymphoma kinase (ALK) fusion protein results inconstitutive activation of the ALK tyrosine kinase and develop-ment of tumorigenic activity. Recently, Soda et al identiﬁed fusionof ALK with echinoderm microtubule-associated protein-like 4(EML4) in 6.7% of Japanese NSCLC patients (31). The EML4-ALK fusion is detected more frequently in patients of a youngerage population with limited smoking history, and EML4-ALK-positive NSCLC is more commonly classiﬁed as adenocarcinomawith signet ring cells, providing methods to stratify patients bothclinically and molecularly for targeted ALK therapy (32). EML4-ALK has thus been proposed as a new diagnostic marker andtherapeutic target in NSCLC."
+                  },
+                  {
+                    "paragraph2": "Crizotinib"
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "Small-molecule inhibitors such as crizotinib have been shown toinhibit ALK phosphorylation and signal transduction (33). Amulticenter trial found that, at a mean treatment duration of 6.4months with crizotinib, the overall response rate of NSCLCpatients with ALK rearrangements was 57% (34). Several clinicaltrials are currently underway to further investigate the effects ofcrizotinib in treating EML4-ALK-positive NSCLC."
+                      },
+                      {
+                        "paragraph1": "IPI-504"
+                      }
+                    ]
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "Heat shock protein 90 (hsp90) inhibitors have emerged as a classof promising drugs to target multiple oncogenic pathways,including EML4-ALK-positive NSCLC. Retrospective analysis ofa phase II trial of IPI-540 (a hsp90 chaperone inhibitor) revealedALK rearrangements in 2 of the 5 NSCLC patients who exhibiteda partial response (35). Laboratory studies have subsequentlyconﬁrmed the selectivity of cell lines with ALK rearrangements tohsp90 inhibition (36), pointing to another method to pharmaco-logically target EML4-ALK-positive NSCLC."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "section3": [
+                  {
+                    "section_title": "Mitotic molecular targets"
+                  },
+                  {
+                    "paragraph1": "Anticancer agents that disrupt mitotic spindle formation andinduce apoptosis have been used successfully to treat a variety ofcancers. However, signiﬁcant DLTs have been associated with theantimicrotubule taxanes and Vinca alkaloids. To induce tumorapoptosis with fewer side effects, researchers have aimed todevelop novel taxane formulations or to identify speciﬁc molec-ular targets of microtubule inhibition. One such molecular target ispolo-like kinase 1 (PLK-1), which plays key roles in mitoticprogression. PLK-1 expression, although elevated in many tumors,is largely absent in surrounding non-proliferating healthy tissues,providing a speciﬁc molecular target of cancer cells (37)."
+                  },
+                  {
+                    "paragraph2": "Abraxane"
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "Abraxane is an albumin-bound, nanoparticle formulation ofpaclitaxel. A phase I/II trial of Abraxane as initial therapy inadvanced NSCLC found an MTD of 125 mg/m2 (38). In a phase IItrial, a combination of Abraxane, carboplatin, and bevacizumab innon-squamous NSCLC yielded a response rate of 31% anda stable disease rate of 54% (39).Interestingly, a trial comparing Abraxane administered every 3weeks (q3w) vs. every week in addition to q3w carboplatin foundthat weekly Abraxane dosing produced less serious side effects anda greater response rate (47% vs. 30%) compared with q3w dosing. Aretrospective analysis revealed that patients with nonsquamoushistology had a signiﬁcantly improved response rate with weeklydosing compared with q3w dosing, whereas patients with squamoushistology had longer PFS and OS with q3w dosing rather thanweekly dosing (40), suggesting that histologic morphology mayoptimize patient selection.Abraxane has been evaluated preclinically and clinically forradiation-modulating effects. Wiedenmann et al found that, whengiven before radiation, Abraxane produced supra-additive effectsin ovarian and mammary carcinoma murine models, signiﬁcantlyincreasing radiocurability. Conversely, Abraxane did not increasethe radioresponse of normal tissue, suggesting a selective effect(41). Preliminary results from a phase I study of Abraxane withcarboplatin and RT in NSCLC suggested weekly combinationtherapy at 40 mg/m2 and found that Abraxane is well tolerated(42)."
+                      },
+                      {
+                        "paragraph1": "Eribulin"
+                      }
+                    ]
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "Eribulin mesylate, a synthetic analogue of halichondrin B, isa non-taxane microtubule dynamics inhibitor currently in phaseII trials for advanced NSCLC (43). As a non-taxane inhibitor, itmay be especially suited for conditions in which taxanes havenot been effective. A phase II trial of eribulin in advancedNSCLC found an overall partial response rate of 9.7% and a 1-year survival rate of 46.4% (44). As a microtubule inhibitor,eribulin is likely to have a signiﬁcant opportunity to enhancetherapy when combined with RT and thus may be an idealcandidate for clinical trials of combined chemoradiation inNSCLC."
+                      },
+                      {
+                        "paragraph1": "PLK-1 inhibitors"
+                      }
+                    ]
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "PLK-1 inhibition has been shown to induce apoptosis in cancercell lines (45), and several PLK-1 inhibitors have completedclinical trials for solid tumors. The efﬁcacy of targeting PLK-1combined with RT has not yet been tested in NSCLC, but head-and-neck SCC studies show promising results. Gerster et alfound that decreased PLK-1 expression resulted in increasedcytotoxicity of the FaDu head-and-neck SCC cells, and cytotox-icity was enhanced by RT addition (46)."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "section3": [
+                  {
+                    "section_title": "Apoptosis"
+                  },
+                  {
+                    "paragraph1": "In recent years, apoptosis has become an attractive target forcancer therapy. Apoptosis is regulated by the complex interactionof 2 groups of Bcl-2 family proteins: antiapoptotic proteins Bcl-2,Bcl-xL, Bcl-w, and Mcl-1, and proapoptotic proteins Bax, Bak,Bad, and Bim. Tumor cell survival can be induced by proapoptoticsignal inactivation or antiapoptotic pathway activation. Defects inthe apoptotic pathway correlate with treatment resistance and arefrequently observed in NSCLC (47)."
+                  },
+                  {
+                    "paragraph2": "Ausborn et al.International Journal of Radiation Oncology � Biology � Physicse456"
+                  },
+                  {
+                    "paragraph3": "Table 1Preclinical studies of molecular targets and radiation therapy in non-small cell lung cancer (NSCLC)"
+                  },
+                  {
+                    "paragraph4": "AgentMolecular targetStudyPopulationTreatmentResults"
+                  },
+                  {
+                    "paragraph5": "BIBW2992EGFR, HER2Pao et al (8)FaDu human SCC in vivoand in vitroBIBW2992 þ RTRadiosensitizing effect"
+                  },
+                  {
+                    "paragraph6": "BevacizumabVEGF-ASocinski et al (15)Xenograft models of ovarian andbreast carcinoma, melanomaBevacizumab þ RTseveral days afterEnhanced tumor growth inhibitionthat coincided with the “tumoroxygenation window”AxitinibVEGFR-1, -2, -3,PDGFR, c-kitFenton et al (20)DU145 human prostatexenograft modelsAxitinib þfractionated RTIncreased tumor response, decreasedvascular density, increased overalltumor hypoxiaFenton et al (21)Human prostate xenograft modelsAxitinib þ RT(before or after)Tumor growth Inhibition was foundto be equivalent for eachtreatment scheduleBIBF 1120VEGFR-2,PDGFR, FGFRZips et al (24)FaDu SCC in nude miceBIBF 1120 þ RTTumor hypoxia and radiationsensitivity of tumor stem cellswere not affectedCCI-779mTOREkshyyan et al (28)Head and neck SCC in micexenograft modelsCCI-779 þ RTInhibited tumor growth by >90%;doubled the survival comparedwith RT aloneBEZ235mTOR, PI3KKonstantinidou et al (29)Transgenic mice with oncogenicK-ras-induced NSCLCand K-ras mutation-positive NSCLCcell lines"
+                  },
+                  {
+                    "paragraph7": "BEZ235 þ RTRadiosensitizing effect both in vivoand in vitro"
+                  },
+                  {
+                    "paragraph8": "LY294002PI3KGupta et al (30)T24 human bladder cancer T24cell xenograftsLY294002 þ RTRadiosensitizing effect"
+                  },
+                  {
+                    "paragraph9": "AbraxaneMicrotubulesWiedenmann et al (41)Murine models of ovarian andmammary carcinomaAbraxane þ RT afterIncreased radiocurability of carcinoma;did not increase radioresponse ofnormal tissueAT-101Bcl-2Moretti et al (50)NSCLC cell lines (A549, HCC2429)AT-101 þ RTRadiosensitizing effectYM155SurvivinIwasa et al (53)NSCLC tumor xenograftYM115 þ RTRadiosensitizing effectTerameprocolSurvivin transcriptionSun et al (55)NSCLC cell lines (HCC2429, H460)Terameprocol þ RTRadiosensitizing effectTG101209JAK2, survivinexpressionSun et al (56)NSCLC cell lines (HCC2429, H460)and xenograftsTG101209 þ RTRadiosensitizing effect; K-Ras-mutantcells were more resistant toradiation-induced andTG101209-induced apoptosisABT-888PARPAlbert et al (57)H460 NSCLC xenograft modelABT-888 þ RTIncreased tumor growth delaycompared to either therapy alone"
+                  },
+                  {
+                    "paragraph10": "(continued on next page)"
+                  },
+                  {
+                    "paragraph11": "Volume 83 � Number 4 � 2012Molecular proﬁling to optimize treatment in NSCLC e457"
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "Bcl-2 inhibitors"
+                      }
+                    ]
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "Therapeutic targeting of Bcl-2 family members is a possiblestrategy to ameliorate drug resistance in NSCLC. Wesarg et alfound that the Bcl-2 inhibitor ABT-737 is effective at chemo-sensitizing drug-resistant NSCLC cell lines that do not express highlevels of endogenous Mcl-1 (48). Resistance to ABT-737 is deter-mined by expression of Mcl-1, and detection of Mcl-1 may there-fore help guide clinical application of ABT-737 (48). Qian et alshowed that in Bcl-xL-overexpressing lung adenocarcinoma cells(which are resistant to apoptosis induction by the PI3K inhibitorLY294002), simultaneous inhibition of the PI3K/Akt pathway withLY294002 and Bcl-xL function with ABT-737-enhanced apoptoticresponse (49). These data suggest that these two pathways controlcell death in a synergistic manner, and that inhibition of Bcl-xLcould improve efﬁcacy of PI3K/Akt inhibitors.Exploitation of pro-apoptotic pathways to promote RT effec-tiveness has shown promising results. The pan-Bcl-2 inhibitorAT-101 increases apoptosis in a concentration-dependent mannerin NSCLC cells. AT-101 also increased radiosensitivity, warrant-ing the need for clinical studies to explore the potential of AT-101as a radiosensitizing agent (50)."
+                      },
+                      {
+                        "paragraph1": "Survivin inhibition"
+                      }
+                    ]
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "Nuclear expression of the anti-apoptosis protein survivin increasesthe risk of disease recurrence and death in NSCLC patients (51),and cells with higher survivin levels have markedly less apoptosisin response to RT (52). Inhibition of survivin by antisense oligo-nucleotides has increased apoptosis of H460 lung cancer cellsafter RT (52). Preclinical data have shown that the survivinsuppressor YM155 has a radiosensitizing effect in NSCLC celllines (53). A phase II trial using YM155 in NSCLC found thatYM155 monotherapy has modest antitumor activity, yieldingstable disease in 37.8% of patients (54). These data suggest theneed for further study of YM155 in multimodality therapy.Terameprocol, an inhibitor of Sp-1-mediated survivin tran-scription, has been shown to increase radiosensitization in NSCLCcells, although the mechanism remains unclear, as decreases insurvivin expression did not correlate with an increase in apoptosis(55). Gene expression of survivin is regulated by STAT3. Sun et aldemonstrated that TG101209, a small-molecule inhibitor of JAK2(a STAT3-activating tyrosine kinase), inhibited STAT3 activationand survivin expression and sensitized lung cancer cells to RT.Interestingly, K-ras-mutant cells were more resistant to radiation-and TG101209-induced apoptosis, suggesting the utility ofselecting patients according to K-ras mutation status for futuretrials investigating combined TG101209 and RT (56)."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "section3": [
+                  {
+                    "section_title": "PARP"
+                  },
+                  {
+                    "paragraph1": "Poly(ADP-ribose) polymerase-1 (PARP1) is a key nuclear enzymein DNA single-strand break repair. Therefore, PARP inhibition hasbeen explored to increase the cytotoxicity of DNA-damaging RT.The PARP inhibitor ABT-888 has been shown to inhibit DNArepair and to increase apoptosis and autophagy in H460 lungcancer cells (57). In addition, combined ABT-888 and RTincreased tumor growth delay compared with either therapy alonein a NSCLC xenograft (57). A phase I/II trial of ABT-888 vsplacebo in combination with paclitaxel, carboplatin, and RT iscurrently underway (58). A study of AZD2281 by Senra et alsuggests that PARP inhibition enhances RT not only by DNArepairinhibitionbutalsobyalteringtumorvascular"
+                  },
+                  {
+                    "paragraph2": "Table 1(continued)"
+                  },
+                  {
+                    "paragraph3": "AgentMolecular targetStudyPopulationTreatmentResults"
+                  },
+                  {
+                    "paragraph4": "AZD2281PARPSenra et al (59)NSCLC cell lines (Calu-6, A549) andCalu-6 xenograftAZD2281 þ RTAZD2281 enhanced cytotoxic effectsof RT; AZD2281 alone and incombination with RT increasedperfusions of tumor blood vessels9H10CTLA-4Dewan et al (64)In vivo model of TSA mouse breastcancer cells and MCA38 coloncancer cells"
+                  },
+                  {
+                    "paragraph5": "9H10 þ fractionated orsingle-dose RTFractionated RT enhanced tumorresponse at both primary site oftumor growth and secondary tumorsites outside radiation ﬁeldDemaria et al (65)Metastatic mouse mammarycarcinoma 4T19H10 þ fractionated RTSigniﬁcant survival advantage thatcorrelated with inhibition of lungmetastases formation"
+                  },
+                  {
+                    "paragraph6": "Abbreviation: RT Z radiation therapy."
+                  },
+                  {
+                    "paragraph7": "Ausborn et al.International Journal of Radiation Oncology � Biology � Physicse458"
+                  },
+                  {
+                    "paragraph8": "hemodynamics (59). Further effects of PARP inhibition areapparent in a study by Gangopadhyay et al, which demonstratedcaspase-dependent apoptosis in response to the PARP inhibitorPJ34 (60). The multiple mechanistic effects of PARP inhibitionpoint to the utility of further exploring combination therapy withPARP inhibitors and RT."
+                  }
+                ]
+              },
+              {
+                "section3": [
+                  {
+                    "section_title": "Immune modulation"
+                  },
+                  {
+                    "paragraph1": "The goal of immune modulation has been to generate moreeffective host immune responses against neoplastic cells. Cyto-toxic T lymphocytes (CTLs) recognize tumor-associated antigens(TAAs) and subsequently kill cells harboring TAAs. By exploitingthe selectivity of host immune systems, immune-modulating drugshave the potential to cause fewer side effects than are associatedwith traditional chemoradiation. Two examples targets of immunemodulation include CTL-antigen-4 (CTLA-4) and programmed-cell-death-1 (PD-1). CTLA-4 is upregulated in response to CTLactivation and is responsible for blunting further CTL activation,leading to immune tolerance to TAAs (61). PD-1, a T-cell inhib-itory receptor, also suppresses antitumor activity, and researchsuggests that CTLA-4 and PD-1 may work synergistically toinduce CTL tolerance (62). Inhibition of these key immunecheckpoint molecules can thus reduce immune tolerance to TAAs."
+                  },
+                  {
+                    "paragraph2": "Ipilimumab"
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "Ipilimumab is a human anti-CTLA-4 monoclonal antibody.Preliminary results of a phase II trial in 203 NSCLC patientsfound that ipilimumab, in addition to paclitaxel/carboplatin inconcurrent and sequential regimens, extended immune-relatedPFS, although only the sequential regimen showed statisticallysigniﬁcant results (63).There is accumulating evidence that RT may complement anti-cancer immune modulation. In TSA mouse breast carcinoma cells,Dewan et al demonstrated that a combination of anti-CTLA-4antibody 9H10 and fractionated RT signiﬁcantly enhanced tumorresponse at both the primary site of tumor growth and thesecondary tumor sites outside of the radiation ﬁeld (64). Similarly,Demaria et al showed that combined 9H10 and RT resulted ina statistically signiﬁcant survival advantage that correlated withlung metastasis inhibition (65)."
+                      },
+                      {
+                        "paragraph1": "MDX-1106"
+                      }
+                    ]
+                  },
+                  {
+                    "section4": [
+                      {
+                        "section_title": "MDX-1106 is a fully human IgG4 PD-1 blocking antibody. Aphase I trial of MDX-1106 as a single agent in solid tumors,including NSCLC, demonstrated anti-PD-1 was well tolerated,with the exception of one serious adverse event of inﬂammatorycolitis. One NSCLC patient had signiﬁcant tumor regression,although criteria were not met for partial response because ofconcomitant progression of tumor at other sites (66)."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section2": [
+              {
+                "section_title": "Summary of Targeted Therapy"
+              },
+              {
+                "paragraph1": "Targeted therapy entails identiﬁcation of molecular targets thatfunction to promote not only cancer survival but also resistance totherapy. For example, screening a patient for EGFR-activatingmutations can predict response to TKIs as ﬁrst-line therapy (67),but further screening for resistance mutations can allow ﬁrst-generation vs. second-generation TKI selection. Similarly, Mcl-1overexpression can predict resistance to the Bcl-2 inhibitor"
+              },
+              {
+                "paragraph2": "Table 2Clinical trials of molecular targets and radiation therapy in non-small cell lung cancer (NSCLC)"
+              },
+              {
+                "paragraph3": "AgentMolecular targetTrialPopulationTreatmentResults"
+              },
+              {
+                "paragraph4": "BevacizumabVEGF-APhase IINon-squamous, unresectableStage III NSCLC, n Z 5Bevacizumab þ Cb þ pemetrexed þ RTObserved tracheoesophageal ﬁstulaedevelopment and related morbidityand mortality; ended prematurely (14)"
+              },
+              {
+                "paragraph5": "Phase I/IIStage III NSCLC patients,n Z 20Bevacizumab þ Cb þ pemetrexed þ RTPreliminary results; 44% objective responses,no progression, signiﬁcantly decreasedtumor volumes; esophagitis primarytoxicity (13)"
+              },
+              {
+                "paragraph6": "Phase I/IIStage III NSCLC patientsBevacizumab þ cisplatin þ etoposide þ RTNot applicable; ongoing trial (95)"
+              },
+              {
+                "paragraph7": "Phase I/IIStage III NSCLC patientsBevacizumab þ Cb þ erlotinib þ paclitaxel þ RTNot applicable; ongoing trial (96)"
+              },
+              {
+                "paragraph8": "AbraxaneMicrotubulesPhase IISquamous NSCLCAbraxane þ Cb þ RTNot applicable; ongoing trial (97)"
+              },
+              {
+                "paragraph9": "Phase IIStage III NSCLC patientsAbraxane þ Cb þ erlotinib þ RTNot applicable; ongoing trial (98)"
+              },
+              {
+                "paragraph10": "Phase IStage III unresectableNSCLC, n Z 8Abraxane þ Cb þ RTPreliminary results; combination therapywell tolerated with expectedadverse events (42)"
+              },
+              {
+                "paragraph11": "ABT-888PARPPhase I/IIStage III NSCLC patientsABT-888 þ Cb þ paclitaxel þ RTNot applicable; ongoing trial (58)"
+              },
+              {
+                "paragraph12": "Abbreviations: Cb Z carboplatin; RT Z radiation therapy."
+              },
+              {
+                "paragraph13": "Volume 83 � Number 4 � 2012Molecular proﬁling to optimize treatment in NSCLC e459"
+              },
+              {
+                "paragraph14": "ABT-737 (48). Overexpression of speciﬁc molecular targets canalso predict RT response, as increased EGFR expression andsurvivin levels have been associated with radioresistance (9, 52).Other characteristics, such as tumor histology and patientsmoking history, also play a role in optimizing therapy. For instance,EGFR ampliﬁcation and increased gene copy number are morefrequentlyassociatedwithsquamousthanadenocarcinomahistology (68), whereas cancers expressing ELM4-ALK are morecommonly classiﬁed as adenocarcinoma (32). Mutations in K-rasand the tyrosine kinase BRAF are more common in former smokers,whereas EGFR mutations and ELM4-ALK are more common inpatients with limited smoking history (8, 69, 32), suggesting theability to predict molecular targets from clinical history.Yet, basing NSCLC treatment solely on histologic and clinicalfeatures may be problematic because of their unreliability.Furthermore, using these features to determine which moleculartest to perform may be suboptimal, as highlighted by Bunn et al(70). Former smoking status is not a perfect indicator of K-ras orBRAF mutations, as EGFR mutations and ALK rearrangementshave also been found in former smokers. Similarly, histologicsubtype may not always be clear, as some tumors show mixedhistology or are too poorly differentiated. Bunn et al, therefore,pointed to initial testing of multiple molecular markers as a moretime-efﬁcient method rather than choosing single selected testsbased on clinical and histological features (70). With the rapidproduction of data currently within this area, questions related tooptimizing strategies for molecular testing of tumor tissues areclose at hand. It appears likely that K-ras mutation status will beshown to be of greatest value in predicting patients most likely tohave tumors resistant to anti-EGFR therapies. Summaries ofpreclinical studies and clinical trials of molecular targets and RTin NSCLC are shown in Tables 1 and 2, respectively."
+              }
+            ]
+          },
+          {
+            "section2": [
+              {
+                "section_title": "Genomic Signatures"
+              },
+              {
+                "paragraph1": "Molecular technology can be used to identify and to quantifymultiple gene patterns associated with speciﬁc conditions. Thesepatterns are called the genomic signature of that condition, and theyrepresent the cell phenotype at the simplest level. These signaturescan help to differentiate subtle differences in the cell biology, whichthen provide us with new insights into the heterogeneous responsesof these cells to different conditions (71, 72). In addition, genomicsignatures assayed in a cell line can be used to study a larger spec-imen, such as a tumor, providing us with the tools required to furtherclassify NSCLC. Herewe focus on the use of genomic signatures forprognostication as well as for treatment selection (Table 3)."
+              },
+              {
+                "section3": [
+                  {
+                    "section_title": "Signatures predicting survival"
+                  },
+                  {
+                    "paragraph1": "Genomic signatures have successfully been used to classify NSCLCpatients into groups with signiﬁcantly different survival outcomes(73e76). These signatures may be able to identify high-risk early-stage NSCLC that may require treatment in addition to standardsurgical resection (77). A multi-site, blinded validation study ofprognostic genomic signatures by the Director’s ChallengeConsortium for the Molecular Classiﬁcation of Lung Adenocarci-noma found that, when combined with clinical data such as stage,age, and gender, prognostic signatures better correlate with survival(78). Several studies have found that prognostic genomic signaturesthat were developed for one histologic subtype may also be useful in"
+                  },
+                  {
+                    "paragraph2": "estimating outcome in a different histology (79e81). These ﬁndingsare vital for the future application of gene expression signatures inthe clinic, suggesting that a simple universal signature may be usedto determine outcome in all types of NSCLC, independent ofhistologic subtype. However, a review by Subramanian et al notesthat there is still relatively little evidence that prognostic signaturesare ready for clinical application, because of the nonreproducibilityof some studies and the limited sample sizes (82). Prospectiveclinical trials are needed to validate these signatures and to deter-mine whether they can be used to select for patients with stage Idisease who would beneﬁt from adjuvant therapy. One such trialcurrently underway is CALGB 30506, which aims to determine thesurvival difference between high-risk vs. low-risk stage I NSCLCpatients whose risk is determined by prognostic signature (83)."
+                  }
+                ]
+              },
+              {
+                "section3": [
+                  {
+                    "section_title": "Signatures predicting metastasis"
+                  },
+                  {
+                    "paragraph1": "At present, we do not have a well-established method of detectingmicrometastasis in surgically treated early-stage NSCLC. Amolecular signature associated with metastasis would allowidentiﬁcation of patients at high risk for tumor dissemination formore aggressive therapy. Several studies have shown that thetumor’s ability to metastasize is an inherent property of its geneexpression and can be detected before the actual metastasis occurs(84, 85). Although some the groundwork has been established, theability to predict metastatic recurrence based on genomic signa-tures needs further reﬁning before it can be clinically used."
+                  }
+                ]
+              },
+              {
+                "section3": [
+                  {
+                    "section_title": ""
+                  },
+                  {
+                    "paragraph1": "Although we have discussed the importance of developinggenomic signatures to predict outcomes, it is also essential to usegenomic signatures to optimize therapy. The BATTLE trial is theﬁrst completed prospective randomized study in NSCLC tomandate biopsy and biomarker-based, individualized treatment(86). A total of 255 pretreated NSCLC patients were randomizedto erlotinib, vandetanib, erlotinib plus bexarotene, or sorafenib,based on molecular biomarkers. The 8-week disease control ratewas 46%, and the 1-year survival was 35%.Most previous research on genomic signatures for predictingchemosensitivity were conducted on cancer cell lines or xenografts.The NCI-60 human tumor cell lines have been tested for sensitivityto more than 100,000 agents, and genomic signatures were devel-oped from these studies (87). This data may allow tailoring ofpatient treatments according to their tumor sensitivities. Becausecisplatin is currently used as a ﬁrst-line agent and pemetrexed asa second-line agent, differentiating between the two drugs based ondata other than empirical assessment can result in more effective andjudicious treatment for patients with advanced NSCLC."
+                  },
+                  {
+                    "paragraph2": "Signatures predicting radiation therapy response"
+                  },
+                  {
+                    "paragraph3": "Similar to chemotherapy, there is a heterogeneous response ofNSCLC to RT even in tumors with similar clinical and histologicalfeatures, which has been attributed to genetic and epigeneticprocesses in tumor cells (88). Some of the pathways involved inradiation resistance have been discussed above. Here we focus ongenomic signatures that can predict radiation sensitivity.Currently, there is no validated genomic signature that can predictNSCLC radiation response. However, studies of the NCI-60"
+                  },
+                  {
+                    "paragraph4": "Ausborn et al.International Journal of Radiation Oncology � Biology � Physicse460"
+                  },
+                  {
+                    "paragraph5": "generated some genomic signatures that may reﬂect radiation sensi-tivity. A recent study using basal expression of 3 genes was able tocorrectly predict radiation response, as measured by survival after 2Gy of ionizing radiation (SF2), in 22 of 35 cell lines (89). A moretraditional genomic signature study was done using mRNA micro-arrays to proﬁle radiation response (90). This study developeda 22-gene and 14-gene signature to reﬂect enhanced radiosensitivityat 2 Gy and 8 Gy, respectively. The study investigators also were ableto identify an 18-gene signature that predicted radioresistance.Eschrich et al similarly generated a signature from 4 different clustersof genes that was predictive of radiosensitivity (91). This study wasable to correctly estimate SF2 values for 3 of 4 NSCLC cell lines.None of the aforementioned models have been tested clinicallyin tumors. However, it is important to be able to optimize RT doseand ﬁelds to achieve the best results without signiﬁcant toxicities.Further research using patient tumors is required to develop usefulsignatures for RT sensitivity."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section2": [
+              {
+                "section_title": "Next-Generation Sequencing"
+              },
+              {
+                "paragraph1": "The advent of next-generation sequencing, a revolutionary plat-form for massive sequencing of the whole exome or genome thatgenerates short base pair reads from millions of DNA fragments,"
+              },
+              {
+                "paragraph2": "is likely to have a signiﬁcant impact on personalized medicine inNSCLC. Relative to cancer genetics, next-generation sequencinghas the advantageous ability to detect novel chromosomal rear-rangements, microbial infections, and copy number alterations(92). Through next-generation sequencing of 89 squamousNSCLC tumors, Belvedere et al derived a computational indexrelated to the ratio of copy number states across the genome thatwas an independent prognostic indicator (93). Notably, whole-genome sequencing provides a single modality to identify thecomplete range of genomic alterations present within a tumor,even those within the noncoding regions not typically sequencedby other methods. For instance, Lee et al successfully sequenceda primary lung tumor and validated 530 somatic single nucleotidevariants from >50,000 identiﬁed high-conﬁdence single nucleo-tide variants (94). The study also found that mutations inexpressed genes were selected against more than mutations innonexpressed genes and promoter regions, providing evidence ofselective pressures. Next-generation sequencing will likely proveto be pivotal in the discovery of new molecular targets forNSCLC therapy. However, the large volume of data produced thatmust be analyzed in regard to the biological and clinical impli-cationspresentsachallengeinapplyingnext-generationsequencing methods to clinical practice and patient care atpresent (92)."
+              },
+              {
+                "paragraph3": "Table 3Studies evaluating gene signatures for non-small cell lung cancer (NSCLC)"
+              },
+              {
+                "paragraph4": "StudySignatureMethodologyResults"
+              },
+              {
+                "paragraph5": "Takadaet al (73)"
+              },
+              {
+                "paragraph6": "Analyzed expression proﬁle of1289 genescDNA microarray, n Z 92 NSCLCsamplesStratiﬁed patients for lymph nodemetastasis and stageGuoet al (74)"
+              },
+              {
+                "paragraph7": "37-Gene signature and 12-genesignaturen Z 86 Lung adenocarcinomas withpreviously reported gene expressionproﬁles (microarray)"
+              },
+              {
+                "paragraph8": "Predicted survival with 0.96 accuracy;12 gene signature predicted stage of94.2% of patientsLuet al (75)"
+              },
+              {
+                "paragraph9": "64-Gene signatureMicroarray, RT-PCR, n Z 197 stage INSCLC patientsSigniﬁcant prediction of overall survival"
+              },
+              {
+                "paragraph10": "Endohet al (77)"
+              },
+              {
+                "paragraph11": "8-Gene signatureqRT-PCR, n Z 85 lung adenocarcinomapatientsStratiﬁed patients by prognosis"
+              },
+              {
+                "paragraph12": "Beeret al (76)"
+              },
+              {
+                "paragraph13": "Analyzed 4966 genesOligonucleotide arrays, n Z 86 lungadenocarcinomaPredicted survival"
+              },
+              {
+                "paragraph14": "Sunet al (79)"
+              },
+              {
+                "paragraph15": "Two 50-gene signaturesOligonucleotide array, n Z 91 NSCLCpatientsPredicted survival for bothadenocarcinoma and squamous NSCLCRaponiet al (80)"
+              },
+              {
+                "paragraph16": "50 mRNA transcriptsqRT-PCR and microarray, n Z 36squamous NSCLCPredicted high-risk vs. low-risk patients(P Z .04)Roepmanet al (81)"
+              },
+              {
+                "paragraph17": "72-Gene signatureMicroarray, n Z 172 NSCLC patientsAssociated with recurrence-free andoverall survivalRamaswamyet al (84)"
+              },
+              {
+                "paragraph18": "128-Gene signature and reduced17-gene signatureMicroarray, n Z 279 primary solidtumorsDistinguished primary from metastaticadenocarcinoma; tumors carryingsignature more likely to be associatedwith metastasis and poor outcome(P Z .03)Seikeet al (85)"
+              },
+              {
+                "paragraph19": "11-Gene signature, CLASS-11(Cytokine LungAdenocarcinoma SurvivalSignature)"
+              },
+              {
+                "paragraph20": "RT-PCR, n Z 80 lung adenocarcinomapatientsIdentiﬁed Stage I adenocarcinoma patientswith poor prognosis (P Z .0002)"
+              },
+              {
+                "paragraph21": "Torres-Rocaet al (89)"
+              },
+              {
+                "paragraph22": "Microarray and qRT-PCR, n Z 35NCI60 cell linesPredicted RT response in 22 of 35cell lines (P Z .0002)Amundsonet al (90)"
+              },
+              {
+                "paragraph23": "22-Gene signature and 14-genesignatureMicroarray, n Z 48 human cancercell lines22-Gene signature differentiated cellswith low survival after 2 Gy of RT;14-gene signature identiﬁed cells linesmore sensitive to 8 Gy of RT"
+              },
+              {
+                "paragraph24": "Abbreviations: RT-PCR Z reverse transcription polymerase chain reaction; q-RT-PCR Z quantitative real-time polymerase chain reaction."
+              },
+              {
+                "paragraph25": "Volume 83 � Number 4 � 2012Molecular proﬁling to optimize treatment in NSCLC e461"
+              }
+            ]
+          },
+          {
+            "section2": [
+              {
+                "section_title": "Conclusion"
+              },
+              {
+                "paragraph1": "Current NSCLC treatment approaches are largely empiric, withminimal improvement in outcome over the last three decades.Only a tailored approach based on tumor genetic make-up willlikely result in signiﬁcantly improved survival in these patients.Therefore, prospective biomarker-driven therapy in selectedpatients is a research priority, with a number of importantdiscoveries in the past few years. The development of usefulgenomic signatures in the laboratory setting provides an excitingnew tool to cultivate novel treatments and to optimize presenttherapy. Although signiﬁcant challenges remain, the pace andscale of progress in applying biomarkers and gene expressionmodels is accelerating, especially in the current era of deepsequencing. The question now is how best to bring them throughclinical trials and ultimately into routine patient management."
+              }
+            ]
+          },
+          {
+            "section2": [
+              {
+                "section_title": "References"
+              },
+              {
+                "paragraph1": "1. Pao W, Kris MG, Iafrate AJ, et al. Integration of molecular proﬁlinginto the lung cancer clinic. Clin Cancer Res 2009;15:5317-5322.2. Sharma SV, Bell DW, Settleman J, et al. Epidermal growth factorreceptor mutations in lung cancer. Nat Rev Cancer 2007;7:169-181.3. Yap TA, Vidal L, Adam J, et al. Phase I trial of irreversible EGFR andHER2 kinase inhibitor BIBW 2992 in patients with advanced solidtumors. J Clin Oncol 2010;28:3965-3972.4. Engelman JA, Zejnullahu K, Gale CM, et al. PF00299804, an irre-versible pan-ERBB inhibitor, is effective in lung cancer models withEGFR and ERBB2 mutations that are resistant to geﬁtinib. Cancer Res2007;67:11924-11932.5. Janne PA, Boss DS, Camidge DR, et al. Phase I dose-escalation studyof the pan-HER inhibitor, PF299804, in patients with advancedmalignant solid tumors. Clin Cancer Res 2011;17:1131-1139.6. Janne P, Reckamp K, Koczywas M, et al. Efﬁcacy and safety of PF-00299804 in patients with advanced NSCLC after failure of at leastone prior chemotherapy regimen and prior treatment with erlotinib[Abstract]. J Clin Oncol 2009;27(Suppl.15):8063.7. Massachusetts General Hospital. Understanding Mechanisms ofAcquired Resistance to BIBW2992. [Cited 10 October 2011] Avail-able from: http://clinicaltrials.gov/ct2/show/NCT01074177.8. Pao W, Wang TY, Riely GJ, etal. KRAS mutations and primary resistanceof lung adenocarcinomas to geﬁtinib or erlotinib. PLoS Med 2005;2:e17.9. Akimoto T, Hunter NR, Buchmiller L, et al. Inverse relationshipbetween epidermal growth factor receptor expression and radio-curability of murine carcinomas. Clin Cancer Res 1999;5:2884-2890.10. Schu¨tze C, Do¨rﬂer A, Eicheler W, et al. Combination of EGFR/HER2tyrosine kinase inhibition by BIBW2992 and BIBW2669 with irra-diation in FaDu human squamous cell carcinoma. Strahlentherapieund Onkologie 2007;183:256-264.11. Bernhard EJ, Stanbridge EJ, Gupta S, et al. Direct evidence for thecontribution of activated N-ras and K-ras oncogenes to increasedintrinsic radiation resistance in human tumor cell lines. Cancer Res2000;60:6597-6600.12. Johnson ML, Rizvi MS, Ginsberg VA, et al. A phase II trial of salirasibin patients with stage IIIB/IV lung adenocarcinoma enriched forKRAS mutations [Abstract]. J Clin Oncol 2009;29(Suppl.15):8012.13. Casanovas O, Hicklin DJ, Bergers G, et al. Drug resistance by evasionof antiangiogenic targeting of VEGF signaling in late-stage pancreaticislet tumors. Cancer Cell 2005;8:299-309.14. Sandler A, Gray R, Perry MC, et al. Paclitaxel-carboplatin alone orwith bevacizumab for non-small-cell lung cancer. N Engl J Med 2006;355:2542-2550.15. Socinski MA, Morris DE, Stinchcombe TE, et al. Incorporation ofbevacizumabanderlotinibwithinductionandconcurrent"
+              },
+              {
+                "paragraph2": "carboplatin/paclitaxel and 74 Gy of thoracic radiotherapy in stage IIInon-small cell lung cancer [Abstract]. J Clin Oncol 2008;26(Suppl.20):7517.16. Spigel DR, Hainsworth JD, Yardley DA, et al. Tracheoesophagealﬁstula formation in patients with lung cancer treated with chemo-radiation and bevacizumab. J Clin Oncol 2010;28:43-48.17. Dings RP, Loren M, Heun H, et al. Scheduling of radiation withangiogenesis inhibitors anginex and Avastin improves therapeuticoutcome via vessel normalization. Clin Cancer Res 2007;13:3395-3402.18. Rugo HS, Herbst RS, Liu G, et al. Phase I trial of the oral anti-angiogenesis agent AG-013736 in patients with advanced solidtumors. J ClinOncol 2005;23:5474-5483.19. Schiller JH, Larson T, Ou SHI, et al. Efﬁcacy and safety of axitinib inpatients with advanced non-small-cell lung cancer. J Clin Oncol 2009;27:3836-3841.20. Fenton BM, Paoni SF. The Addition of AG-013736 to fractionatedradiation improves tumor response without functionally normalizingthe tumor vasculature. Cancer Res 2007;67:9921-9928.21. Fenton BM, Paoni SF. Alterations in daily sequencing of Axitinib andfractionated radiotherapy do not affect tumor growth inhibition orpathophysiological response. Radiat Res 2009;171:606-614.22. Ellis PM, Kaiser R, Zhao Y, et al. Phase I open-label study ofcontinuous treatment with BIBF 1120, a triple angiokinase inhibitor,and pemetrexed in pretreated non-small cell lung cancer patients. ClinCancer Res 2010;16:2881-2889.23. Reck M, Kaiser R, Eschbach C, et al. A phase II double-blind study toinvestigate efﬁcacy and safety of two doses of the triple angiokinaseinhibitor BIBF 1120 in patients with relapsed advanced non-small-celllung cancer. Ann Oncol 2011;22:1374-1381.24. Zips D, Le K, Yaromina A, et al. Triple angiokinase inhibition, tumorhypoxia and radiation response of FaDu human squamous cell carci-nomas. Radiother Oncol 2009;92:405-410.25. Balsara BR, Pei J, Mitsuuchi Y, et al. Frequent activation of AKT innon-small cell lung carcinomas and preneoplastic bronchial lesions.Carcinogenesis 2004;25:2053-2059.26. Yuan R, Kay A, Berg WJ, et al. Targeting tumorgenesis: Developmentand use of mTOR inhibitors in cancer therapy. J Hematol Oncol 2009;27:45.27. Janmaat ML, Kruyt FA, Rodriguez JA, et al. Response to epidermalgrowth factor receptor inhibitors in non-small cell lung cancer cells.Clin Cancer Res 2003;9:2316-2326.28. Ekshyyan O, Rong Y, Rong X, et al. Comparison of radiosensitizingeffects of the mammalian target of rapamycin inhibitor CCI-779 tocisplatin in experimental models of head and neck squamous cellcarcinoma. Mol Cancer Ther 2009;8:2255-2265.29. Konstantinidou G, Bey EA, Rabellino A, et al. Dual phosphoino-sitide 3-kinase/mammalian target of rapamycin blockade is aneffective radiosensitizing strategy for the treatment of non-smallcell lung cancer harboring K-RAS mutations. Cancer Res 2009;69:7644-7652.30. Gupta AK, Cerniglia GJ, Mick R, et al. Radiation sensitization ofhuman cancer cells in vivo by inhibiting the activity of PI3K usingLY294002. ASTRO Annual Meeting 2003;56:846e853.31. Soda M, Choi YL, Enomoto M, et al. Identiﬁcation of the trans-forming EML4-ALK fusion gene in non-small cell lung cancer.Nature 2007;448:561-567.32. Shaw AT, Yeap BY, Mino-Kenudson M, et al. Clinical features andoutcome of patients with non-small-cell lung cancer who harborEML4-ALK. J Clin Oncol 2009;27:4247-4253.33. Shaw AT, Solomon B. Targeting anaplastic lymphoma kinase in lungcancer. Clin Cancer Res 2011;17:2081-2086.34. Kwak EL, Bang YJ, Camidge DR, et al. Anaplastic lymphoma kinaseinhibition in non-small-cell lung cancer. N Engl J Med 2010;363:1693-1703.35. Sequist LV, Gettinger S, Senzer NN, et al. Activity of IPI-504, a novelheat-shock protein 90 inhibitor, in patients with molecularly deﬁnednon-small-cell lung cancer. J Clin Oncol 2010;28:4953-4960."
+              },
+              {
+                "paragraph3": "Ausborn et al.International Journal of Radiation Oncology � Biology � Physicse462"
+              },
+              {
+                "paragraph4": "36. Chen Z, Sasaki T, Tan X, et al. Inhibition of ALK, PI3K/MEK andHSP90 in murine lung adenocarcinoma induced by EML4-ALKfusion oncogene. Cancer Res 2010;70:9827-9836.37. Scho¨ffski P. Polo-like kinase (PLK) inhibitors in preclinical and earlyclinical development in oncology. Oncologist 2009;14:559-570.38. Rizvi NA, Riely GJ, Azzoli CG, et al. Phase I/II trial of weeklyintravenous 130-nm albumin-bound paclitaxel as initial chemotherapyin patients with stage IV non-small-cell lung cancer. J Clin Oncol2008;26:639-643.39. Reynolds C, Barrera D, Jotte R, et al. Phase II trial of nanoparticlealbumin-bound paclitaxel, carboplatin, and bevacizumab in ﬁrst-linepatients with advanced nonsquamous non-small cell lung cancer. JThorac Oncol 2009;4:1537-1543.40. Socinski MA. Induction and concurrent chemotherapy with high-dosethoracic conformal radiation therapy in unresectable stage IIIA andIIIB non-small-cell lung cancer. J Clin Oncol 2004;22:4341-4350.41. Wiedenmann N, Valdecanas D, Hunter N, et al. 130-nm Albumin-bound paclitaxel enhances tumor radiocurability and therapeuticGain. Clin Cancer Res 2007;13:1868-1874.42. Keedy VL, Lu B, Horn L, et al. A phase I study of nab-paclitaxel withcarboplatin and thoracic radiation in patients with locally advancedNSCLC. [Abstract]. J Clin Oncol 2011;29(Suppl.):7046.43. Swami U, Chaudhary I, Ghalib M, et al. Eribulin e a review ofpreclinical and clinical studies. Crit Rev Oncol Hematal 2011. Epubahead of print.44. Spira AI, Iannotti NO, Savin MA, et al. Phase II study of eribulinmesylate, a mechanistically novel inhibitor of microtubule dynamics,in patients with advanced non-small cell lung cancer. J Clin Oncol2007;25(Suppl):7546.45. Strebhardt K, Ullrich A. Targeting polo-like kinase 1 for cancertherapy. Nat Rev Cancer 2006;6:321-330.46. Gerster K, Shi W, Waldron J, et al. Targeting Polo-like Kinase 1enhances radiation efﬁcacy for head-and-neck squamous cell carci-noma. Int J Radiat Oncol Biol Phys 2010;77:253-260.47. Speirs CK, Hwang M, Kim S, et al. Harnessing the cell death pathwayfor targeted cancer treatment. Am J Cancer Res 2011;1:50-68.48. Wesarg E, Hoffarth S, Wiewrodt R, et al. Targeting BCL-2 familyproteins to overcome drug resistance in non-small cell lung cancer. IntJ Cancer 2007;121:2387-2394.49. Qian J, Zou Y, Rahman JS, et al. Synergy between phosphatidylino-sitol 3-kinase/Akt pathway and Bcl-xL in the control of apoptosis inadenocarcinoma cells of the lung. Mol Cancer Ther 2009;8:101-109.50. Moretti L, Li B, Lu B. AT-101, a Pan-Bcl-2 Inhibitor leads to radio-sensitization of non-small lung cancer. J Thorac Oncol 2010;5:680-687.51. Shinohara ET, Gonzalez A, Massion PP, et al. Nuclear survivinpredicts recurrence and poor survival in patients with resected non-small cell lung carcinoma. Cancer 2005;103:1685-1692.52. Lu B, Yi M, Schneider S, et al. Survivin as a therapeutic target forradiation sensitization in lung cancer. Cancer Res 2004;64:2840-2845.53. Iwasa T, Okamoto I, Suzuki M, et al. Radiosensitizing effect ofYM155, a novel small-molecule survivin suppressant, in non-smallcell lung cancer cell lines. Clin Cancer Res 2008;14:6496-6504.54. Giaccone G, Zatloukal P, Roubec J, et al. Multicenter phase II trial ofYM155, a small-molecule suppressor of survivin, in patients withadvanced, refractory, non-small-cell lung cancer. J Clin Oncol 2009;27:4481-4486.55. Sun Y, Giacalone N, Lu B. Terameprocol, an inhibitor of Sp1-mediated survivin transcription, induces radiosensitization in non-small cell lung carcinoma. J Thorac Oncol 2011;6:8-14.56. Sun Y, Giacalone N, Lu B. Inhibition of JAK2 signaling by TG101209enhances radiotherapy in lung cancer models. J Thorac Oncol 2011.Epub ahead of print.57. Albert JM, Cao C, Kim KW, et al. Inhibition of poly(ADP-ribose)polymerase enhances cell death and improves tumor growth delay inirradiated lung cancer models. Clin Cancer Res 2007;13:3033-3042.58. Beckman Research Institute. Veliparib With or Without RadiationTherapy, Carboplatin, and Paclitaxel in Patients With Stage III Non-"
+              },
+              {
+                "paragraph5": "Small Cell Lung Cancer That Cannot Be Removed by Surgery.[Cited 13 September 2011] Available from: http://clinicaltrials.gov/ct/show/NCT01386385.59. Senra JM, Telfer BA, Cherry KE, et al. Inhibition of PARP-1 byolaparib increases the radiosensitivity of a lung tumor xenograft. MolCancer Ther 2011;10:1949-1958.60. Gangopadhyay NN, Luketich JD, Opest A, et al. Inhibition ofpoly(ADP-ribose) polymerase induces apoptosis in lung cancer celllines. Cancer Invest 2011;29:608-616.61. Peggs KS, Quezada SA, Korman AJ, et al. Principles and use of anti-CTLA4antibodyinhumancancer.CurrOpinImmunol2006;16:206-213.62. Sharpe AH, Wherry EJ, Ahmed R, et al. The function of programmedcell death 1 and its ligands in regulating autoimmunity and infection.Nat Immunol 2007;8:239-245.63. Lynch TJ, Bondarenko IN, Luft A, et al. Phase II trial of ipilimumaband paclitaxel/carboplatin in ﬁrst-line stage IIIb/IV non-small celllung cancer [Abstract]. J Clin Oncol 2010;28(Suppl 15):7531.64. Dewan MZ, Galloway AE, Kawashima N, et al. Fractionated but notsingle-dose radiotherapy induces an immune-mediated abscopal effectwhen combined with anti-CTLA-4 antibody. Clin Cancer Res 2009;15:5379-5388.65. Demaria S, Kawashima N, Yang AM, et al. Immune-mediated inhi-bition of metastases after treatment with local radiation and CTLA-4blockade in a mouse model of breast cancer. Clin Cancer Res 2005;11:728-734.66. Brahmer JR, Drake CG, Wollner I, et al. Phase I study of single-agentAnti-Programmed Death-1 in refractory solid tumors: Safety, clinicalactivity, pharmacodynamics, and immunologic correlates. J ClinOncol 2010;28:3167-3175.67. Keedy VL, Temin S, Somerﬁeld MR, et al. American Society ofClinical Oncology provisional clinical opinion: Epidermal growthfactor receptor mutation testing for patients with advanced non-small-cell lung cancer considering ﬁrst-line EGFR tyrosine kinase inhibitortherapy. J Clin Oncol 2011;2121-2127.68. Dacic S, Flanagan M, Cieply K. Signiﬁcance of EGFR proteinexpression and gene ampliﬁcation in non-small cell lung carcinoma.Am J Clin Path 2006;125:860-865.69. Paik PK, Arcila ME, Fara M, et al. Clinical characteristics of patientswith lung adenocarcinomas harboring BRAF mutations. J Clin Oncol2011;2046-2051.70. Bunn PA, Doebele RC. Genetic testing for lung cancer: Reﬂex vs.clinical selection. J Clin Oncol 2011;1943-1945.71. Agullo-Ortuno MT, Lopez-Rios F, Paz-Ares L. Lung cancer genomicsignatures. J Thorac Oncol 2010;5:1673-1691.72. Nevins JR, Potti A. Mining gene expression proﬁles: Expressionsignatures as cancer phenotypes. Nat Rev Genet 2007;8:601-609.73. Takada M, Tada M, Tamoto E, et al. Prediction of lymph nodemetastasis by analysis of gene expression proﬁles in non-small celllung cancer. J Surg Res 2004;122:61-69.74. Guo L, Ma Y, Ward R, et al. Constructing molecular classiﬁers for theaccurate prognosis of lung adenocarcinoma. Clin Cancer Res 2006;12:3344-3354.75. Lu Y, Lemon W, Liu PY, et al. A gene expression signature predictssurvival of patients with stage I non-small cell lung cancer. PLoS Med2006;3:e467.76. Beer DG, Kardia SLR, Huang CC, et al. Gene-expression proﬁlespredict survival of patients with lung adenocarcinoma. Nat Med 2002;8:816-824.77. Endoh H, Tomida S, Yatabe Y, et al. Prognostic model of pulmonaryadenocarcinoma by expression proﬁling of eight genes as determinedby quantitative real-time reverse transcriptase polymerase chainreaction. J Clin Oncol 2004;22:811-819.78. Shedden K, Taylor JMG, Enkemann SA, et al. Gene expression-basedsurvival prediction in lung adenocarcinoma: A multi-site, blindedvalidation study. Nat Med 2008;14:822-827.79. Sun Z, Wigle DA, Yang P. Non-overlapping and non-cell-type-speciﬁcgene expression signatures predict lung cancer survival. J Clin Oncol2008;26:877-883."
+              },
+              {
+                "paragraph6": "Volume 83 � Number 4 � 2012Molecular proﬁling to optimize treatment in NSCLC e463"
+              },
+              {
+                "paragraph7": "80. Raponi M, Zhang Y, Yu J, et al. Gene expression signatures for pre-dicting prognosis of squamous cell and adenocarcinomas of the lung.Cancer Res 2006;66:7466-7472.81. Roepman P, Jassem J, Smit EF, et al. An immune response enriched72-gene prognostic proﬁle for early-stage non-small-cell lung cancer.Clin Cancer Res 2009;15:284-290.82. Subramanian J, Simon R. Gene expression-based prognostic SIgna-tures in lung cancer: Ready for clinical use? J Natl Cancer Inst 2010;102:464-474.83. National Cancer Institute. Chemotherapy or Observation in TreatingPatients With Early Stage Non-Small Cell Lung Cancer. [Cited9Jan2011]Availablefrom:http://clinicaltrials.gov/ct2/show/NCT00863512.84. Ramaswamy S, Ross KN, Lander ES, et al. A molecular signature ofmetastasis in primary solid tumors. Nat Genet 2003;33:49-54.85. Seike M, Yanaihara N, Bowman ED, et al. Use of a cytokine geneexpression signature in lung adenocarcinoma and the surroundingtissue as a prognostic classiﬁer. J Natl Cancer Inst 2007;99:1257-1269.86. Kim ES, Herbst RS, Wistuba II, et al. The BATTLE trial: Personal-izing therapy for lung cancer. Cancer Discovery 2011;1:44-53.87. Scherf U, Ross DT, Waltham M, et al. A gene expression database forthe molecular pharmacology of cancer. Nat Genet 2000;24:236-244.88. Das AK, Bell MH, Nirodi CS, et al. Radiogenomics predicting tumorresponses to radiotherapy in lung cancer. Semin Radiat Oncol 2010;20:149-155.89. Torres-Roca JF, Eschrich S, Zhao H, et al. Prediction of radiationsensitivity using a gene expression classiﬁer. Cancer Res 2005;65:7169-7176.90. Amundson SA, Do KT, Vinikoor LC, et al. Integrating global geneexpression and radiation survival parameters across the 60 cell lines of"
+              },
+              {
+                "paragraph8": "the National Cancer Institute Anticancer Drug Screen. Cancer Res2008;68:415-424.91. Eschrich S, Zhang H, Zhao H, et al. Systems biology modeling of theradiation sensitivity network: A biomarker discovery platform. Int JRadiat Oncol Biol Phys 2009;75:497-505.92. Meyerson M, Gabriel S, Getz G. Advances in understanding cancergenomes through second-generation sequencing. Nature ReviewsGenetics 2010;11:685-696.93. Belvedere O, Berri S, Chalkley R, et al. A computational index derivedfrom whole-genome copy number analysis is a novel tool for prognosisin early state lung squamous cell carcinoma. Genomics 2012;1:18-24.94. Lee W, Jiang Z, Liu J, et al. The mutation spectrum revealed by pairedgenome sequences from a lung cancer patient. Nature 2010;465:473-477.95. Southwest Oncology Group. Combination Chemotherapy, RadiationTherapy, and Bevacizumab in Treating Patients With Newly Diag-nosed Stage III Non-Small Cell Lung Cancer That Cannot BeRemoved By Surgery. [Cited 9 January 2012] Available from: http://clinicaltrials.gov/ct2/show/NCT00334815.96. UNCLinebergerComprehensiveCancerCenter.CombinationChemotherapy, Bev, RT, and Erlotinib in Treating Patients With StageIII Non-Small Cell Lung Cancer. [Cited 9 January 2012] Availablefrom: http://clinicaltrials.gov/ct2/show/NCT00280150.97. First People’s Hospital of Hangzhou. Concurrent Nab-P/Carboplatin andThoracic Radiotherapy in Squamous Cell Lung Cancer. [Cited 9 January2012] Available from: http://clinicaltrials.gov/ct2/show/NCT01494415.98. National Cancer Institute. Carboplatin and Paclitaxel Albumin-Stabilized Nanoparticle Formulation Followed by Radiation Therapyand Erlotinib in Treating Patients With Stage III Non-Small CellLung Cancer That Cannot Be Removed By Surgery. [Cited 9January2012]Availablefrom:http://clinicaltrials.gov/ct2/show/NCT00553462."
+              },
+              {
+                "paragraph9": "Ausborn et al.International Journal of Radiation Oncology � Biology � Physicse464"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "metatada": [
+      {
+        "Paper_title": "Expression, prognostic and predictive impact of VEGF and bFGF in non-small cell lung cancer"
+      },
+      {
+        "Author": "Fadi S. Farhat a, Arafat Tfayli b, Najla Fakhruddin a,c, Rami Mahfouz c, Zaher K. Otrock b, Raafat S. Alameddine b, Ahmad H. Awada d,∗, Ali Shamseddine b "
+      },
+      {
+        "Abstract": "Despite major advances in cancer therapeutics, the prognosis for lung cancer patients is still poor and the median survival for patients presenting with advanced non-small cell lung cancer (NSCLC) is only 8–10 months. Angiogenesis is an important biological process and a relatively early event during lung cancer pathogenesis. Anti-angiogenic agents are used in treating patients with NSCLC, and their molecular biomarkers are also being assessed to predict response. A better understanding of the biology of angiogenesis in NSCLC may reveal new targets for treating this malignancy. In this article, we review the expression and prognostic impact of the angiogenic growth factors, vascular endothelial growth factor and basic ﬁbroblast growth factor, in NSCLC. © 2012 Published by Elsevier Ireland Ltd. "
+      },
+      {
+        "Keywords": " Non-small cell lung cancer; VEGF; bFGF; Angiogenic markers; Expression; Prognostic impact; Review "
+      }
+    ]
+  },
+  {
+    "body_text": [
+      {
+        "section1": [
+          {
+            "section_title": "1.Introduction"
+          },
+          {
+            "paragraph1": " . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1492.Angiogenesis: mechanisms and role in carcinogenesis. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1503.Anti-angiogenic agents and potential molecular biomarkers in NSCLC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1504.VEGF and VEGFR family . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1524.1.VEGF tumor expression in NSCLC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1524.2.Circulating VEGF in NSCLC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1545.Basic ﬁbroblast growth factor (bFGF) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1555.1.bFGF tumor expression in NSCLC. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1555.2.Circulating bFGF in NSCLC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1556.Conclusion and future prospects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .155Conﬂict of interest statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .156Reviewers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .156References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .156Biographies. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .159"
+          },
+          {
+            "paragraph2": "Abstract"
+          },
+          {
+            "paragraph3": "Despite major advances in cancer therapeutics, the prognosis for lung cancer patients is still poor and the median survival for patientspresenting with advanced non-small cell lung cancer (NSCLC) is only 8–10 months. Angiogenesis is an important biological process and arelatively early event during lung cancer pathogenesis. Anti-angiogenic agents are used in treating patients with NSCLC, and their molecularbiomarkers are also being assessed to predict response. A better understanding of the biology of angiogenesis in NSCLC may reveal newtargets for treating this malignancy. In this article, we review the expression and prognostic impact of the angiogenic growth factors, vascularendothelial growth factor and basic ﬁbroblast growth factor, in NSCLC.© 2012 Published by Elsevier Ireland Ltd."
+          },
+          {
+            "paragraph4": "Keywords: Non-small cell lung cancer; VEGF; bFGF; Angiogenic markers; Expression; Prognostic impact; Review"
+          },
+          {
+            "paragraph5": "∗ Corresponding author at: Head of the Medical Oncology Clinic, JulesBordet Institute, Boulevard de Waterloo 121, B – 1000 Brussels, Belgium.Tel.: +32 2 541 31 89; fax: +32 2 538 08 58.E-mail address: ahmad.awada@bordet.be (A.H. Awada)."
+          },
+          {
+            "paragraph6": "1. Introduction"
+          },
+          {
+            "paragraph7": "Despite major advances in cancer therapeutics, the sur-vivalrateforpatientswithlungcancerhasnotimprovedmucheven in the era of targeted therapy [1]. Lung cancer remains"
+          },
+          {
+            "paragraph8": "1040-8428/$ – see front matter © 2012 Published by Elsevier Ireland Ltd.doi:10.1016/j.critrevonc.2012.02.012"
+          },
+          {
+            "paragraph9": "150F.S. Farhat et al. / Critical Reviews in Oncology/Hematology 84 (2012) 149–160"
+          },
+          {
+            "paragraph10": "the leading cause of cancer death in the western world. Theestimated number of new lung cancer cases in the UnitedStates was 219,440 cases in the year of 2009 and around159,390 cases died from this disease [2]. Lung carcinoma isresponsible for 1.3 million deaths worldwide annually [3].Traditionally, the prognosis of lung cancer patients is gener-ally poor and the median survival for patients presenting withadvanced non-small cell lung cancer (NSCLC) treated withchemotherapy alone is about 10 months [4]. Thus, there is aneedforbetterscreeningandtreatmentmodalitiesforthisdis-ease. The dismal prognosis and the limited tumor response toconventional cytotoxic agents posed a challenge to the scien-tiﬁccommunitytocomeupwithalternativetargetedtherapiesheralding better clinical responses all with minimizing theadverse effects. Angiogenesis targeting agents were amongthe ﬁrst to be recognized for potential beneﬁt in NSCLC [5].However when applied in different settings, monoclonal anti-bodies, tyrosine kinase inhibitors (TKIs) and other classes ofagents did not yield a consistent response among patientswith NSCLC [6]. Hence emerges the role of biomarkers intailoring therapeutic strategies to patient’s biological makeupand optimizing clinical response. This paper revisits the roleof anti-angiogenic agents in NSCLC and focuses mainly onthe prognostic and predictive value of two major angiogenicmarkers vascular endothelial growth factor (VEGF) and basicﬁbroblast growth factor (bFGF)."
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "2. Angiogenesis: mechanisms and role incarcinogenesis"
+          },
+          {
+            "paragraph1": "Angiogenesis is an important biological process not onlyunder physiological conditions but also in a variety of dis-ease conditions including cancer, diabetic retinopathy andrheumatoid arthritis [7]. For more than a decade, the role ofvascular endothelial growth factor (VEGF) in the regulationof angiogenesis has been under investigation [8]. This pro-cess is important for the growth of new blood vessels duringfetal development and tissue repair; however, uncontrolledangiogenesis promotes neoplastic diseases and other disor-ders. The successful implementation of this process dependsupon the balance of growth promoting factors and growthinhibitory factors [9,10]. Tumor growth and metastasis aredependent on angiogenesis [11]. Angiogenesis depends onthe balance between different molecules released by the hostand tumor cells, and consists of a series of steps, includingseparation of endothelial cells from pericytes and the base-ment membrane, invasion and migration across basementmembranes, and eventually resulting in extension into thetumor body [12,13]. Speciﬁc angiogenic molecules can ini-tiate this process whereas speciﬁc inhibitory molecules canstop it [14].There is evidence that angiogenesis is a relativelyearly event during lung cancer pathogenesis. Angiogenicsquamous dysplasia which represents small lesions wherecapillary loops project into histologically abnormal bronchial"
+          },
+          {
+            "paragraph2": "epithelium, has been observed in preneoplastic lesions fromindividuals at high risk of developing lung cancer and wasassociated with high VEGF expression [15,16].One of the most speciﬁc and crucial regulators ofangiogenesis is VEGF [8,17]. The different processes ofangiogenesis are controlled by a large number of othermediators including the vascular endothelial growth fac-tors receptors (VEGFRs), the plasminogen activators (PAs),the matrix metallo-proteinases (MMPs) and their inhibitors(MMPIs), bFGF, the transforming growth factor-�s (TGF-�),and the platelet-derived growth factor (PDGF) [18] amongmany others."
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "3. Anti-angiogenic agents and potential molecularbiomarkers in NSCLC"
+          },
+          {
+            "paragraph1": "The growing understanding of angiogenesis has been use-ful in establishing a new family of biological agents targetingangiogenesis pathways. Monoclonal antibodies and receptorTKIs were designed and tested in clinical trials in attempt toimprove the therapeutic effect of the conventional cytotoxicagents [19,20]. In the pivotal ECOG4599 trial, Bevacizumaba humanized monoclonal antibody targeting VEGF, demon-strated a signiﬁcant survival beneﬁt when added to paclitaxeland carboplatin compared to that combination alone [21].In the AVAiL trial, a smaller clinical beneﬁt was derivedfrom adding bevacizumab to gemcitabine and cisplatin com-bination [22]. A closer look at the patient population showsthat patients with squamous cell carcinoma were excludedbased on safety data from a previous phase II trial [23]. Beva-cizumab use was associated with major hemoptysis and fatalpulmonary hemorrhage in patients with squamous cell lungcancer. In the latter group, tumors have a predilection to becavitating and centrally located. The friable nature rendersthem prone to erode into vicinous major pulmonary vesselsand subsequently causing extensive pulmonary hemorrhage.Further exploration of patients’ susceptibility to beva-cizumab requires the search for molecular markers associatedwith survival and response. On evaluation of sera of patientsenrolled in ECOG4599 trial, higher plasma circulating levelsofVEGFpredictedbetterresponsetobevacizumabtreatment,but this was not predictive of overall survival [24]. In theAVAiL trial a high baseline level of beta ﬁbroblast growthfactor (Beta FGF) and VEGF and other factors was associatedwith shorter overall survival [25,26].In addition to bevacizumab, other agents have been impli-cated in phase II trials in NSCLC (Table 1).One of the agents, Vandetanib, a VEGFR, EGFR and RETtyrosine kinase inhibitor showed improvement in progres-sion free survival in three phase II trials in patients withadvanced NSCLC [27–29]. Low baseline circulating VEGFpredicted a therapeutic beneﬁt in PFS in the above studieswhen using vandetanib [30]. In the ZODIAC trial, wherepatients were randomized in the second line setting to doc-etaxel with or without vandetanib, many biologic markers,"
+          },
+          {
+            "paragraph2": "F.S. Farhat et al. / Critical Reviews in Oncology/Hematology 84 (2012) 149–160151"
+          },
+          {
+            "paragraph3": "Table 1Phase III clinical trials in NSCLC involving anti-angiogenic agents."
+          },
+          {
+            "paragraph4": "AgentClassTargetStudyStatus"
+          },
+          {
+            "paragraph5": "SorafenibTyrosine KinaseInhibitorVEGFR-1,VEGFR-2,VEGFR-3,PDGFR-ßKRASand Raf-1"
+          },
+          {
+            "paragraph6": "1-A randomized controlled trial comparing safety and efﬁcacy of carboplatin and paclitaxel ± sorafenib in chemo-naive patients with stageIIIB–IV non-small cell lung cancer (NSCLC)Earlyterminated"
+          },
+          {
+            "paragraph7": "2-BRAF, KRAS and EGFR mutation detection in non-small cell lung cancer patients treated with sorafenib monotherapyNot open yet3-A phase III, multi-center, placebo-controlled trial of sorafenib in patients with relapsed or refractory advanced predominantly nonsquamous non-small cell lung cancer (NSCLC) After 2 or 3 previous treatment regimens for advanced diseaseOngoing"
+          },
+          {
+            "paragraph8": "4-A phase III randomized, double-blind, placebo controlled trial comparing the efﬁcacy of gemcitabine, cisplatin and sorafenib togemcitabine, cisplatin and placebo in ﬁrst-line treatment of patients with stage IIIb with effusion and stage iv non-small cell lung cancer(NSCLC)"
+          },
+          {
+            "paragraph9": "Completed"
+          },
+          {
+            "paragraph10": "BIBF 1120Tyrosine kinaseinhibitorVEGFR-1,VEGFR-2,VEGFR-3,PDGFR-a/�, andFGFR"
+          },
+          {
+            "paragraph11": "1-LUME lung 1 randomised double blind phase III trial of BIBF 1120 versus placebo in addition to standard therapy of docetaxel inpatients with advanced NSCLCOngoing"
+          },
+          {
+            "paragraph12": "2-A randomized double-blind multicenter phase III trial of BIBF 1120 plus pemetrexed versus pemetrexed/placebo in advanced or recurrentnon small cell lung cancer patients after failure of ﬁrst line therapyOngoing"
+          },
+          {
+            "paragraph13": "Cediranib(AZD2171)Tyrosine kinaseinhibitorVEGFR-1,VEGFR-2,VEGFR-3,PDGFR-a/�,"
+          },
+          {
+            "paragraph14": "1-A double blind randomized trial of cediranib versus placebo in patients receiving paclitaxel/carboplatin chemotherapy for the treatmentof advanced or metastatic non-small cell lung cancerOngoing"
+          },
+          {
+            "paragraph15": "2-A phase II/III double blind randomized trial of AZD2171 versus placebo in patients receiving paclitaxel/carboplatin chemotherapy for thetreatment of advanced or metastatic non-small cell lung cancerOngoing"
+          },
+          {
+            "paragraph16": "Motesanib(AMG-706)Tyrosine kinaseinhibitorVEGFR-1,VEGFR-2,PDGFR-a/�, andc-kit"
+          },
+          {
+            "paragraph17": "A phase 3, multicenter, randomized, placebo-controlled, double-blind trial of AMG 706 in combination with paclitaxel and carboplatin foradvanced non-small cell lung cancerOngoing"
+          },
+          {
+            "paragraph18": "Pazopanib(GW786034)Tyrosine kinaseinhibitorVEGFR-1,VEGFR-2,VEGFR-3,PDGFR-a/�, andc-kit"
+          },
+          {
+            "paragraph19": "1-Double blind randomized phase iii study of maintenance pazopanib versus placebo in NSCLC patients non progressive after ﬁrst linechemotherapy. MAPPING, an EORTC Lung Group Study.Ongoing"
+          },
+          {
+            "paragraph20": "2-A randomized, double-blind, placebo-controlled phase II–III multi-centre study to evaluate the effect of adjuvant pazopanib (GW786034)versus placebo on post-surgical disease-free survival in patients with stage I non small cell lung cancer and tumor size equal or inferior to5 cm"
+          },
+          {
+            "paragraph21": "Ongoing"
+          },
+          {
+            "paragraph22": "Ramucirumab(IMC-1121B)Monoclonal antibodyVEGFR-2A randomized, double-blind, phase 3 study of docetaxel and ramucirumab versus docetaxel and placebo in the treatment of stage IVnon-small cell lung cancer following disease progression after one prior platinum-based therapyOngoing"
+          },
+          {
+            "paragraph23": "Vandetanib(ZD6474)Tyrosine kinaseinhibitorVEGFR-2,VEGFR-3,EGFR, andRET"
+          },
+          {
+            "paragraph24": "1-A phase III, randomized, double-blinded, multi-center, study to assess the efﬁcacy of docetaxel (TAXOTERETM) in combination withZD6474 (ZACTIMATM) versus docetaxel (TAXOTERETM) with placebo in subjects with locally advanced or metastatic NSCLCOngoing"
+          },
+          {
+            "paragraph25": "2-A phase III, randomized, double-blinded, parallel group, multi-centre study to assess the efﬁcacy and safety of ZD6474 (ZACTIMATM)in combination with pemetrexed (Alimta®) versus pemetrexed alone in patients with locally advanced or metastatic NSCLCOngoing"
+          },
+          {
+            "paragraph26": "3-A phase III study to assess the efﬁcacy of ZD6474 (ZACTIMATM) plus best supportive care versus best supportive care in patients withlocally advanced or metastatic (Stage IIIB–IV) non-small cell lung cancer after therapy with an epidermal growth factor receptor tyrosinekinase inhibitor (EGFR TKI)"
+          },
+          {
+            "paragraph27": "Ongoing"
+          },
+          {
+            "paragraph28": "4-A phase III, international, randomised, double blind, parallel-group study to assess the efﬁcacy of ZactimaTM versus Tarceva® in patientswith locally advanced or metastatic non-small cell lung cancer after failure of at least one prior chemotherapyOngoing"
+          },
+          {
+            "paragraph29": "Aﬂibercept(AVE0005)Fusion proteinVEGF A,VEGFB andPIGF"
+          },
+          {
+            "paragraph30": "A multinational, randomized, double-blind study comparing aﬂibercept versus placebo in patients treated with second-line docetaxel afterfailure of one platinum based therapy for locally advanced or metastatic non-small-cell lung cancerOngoing"
+          },
+          {
+            "paragraph31": "152F.S. Farhat et al. / Critical Reviews in Oncology/Hematology 84 (2012) 149–160"
+          },
+          {
+            "paragraph32": "Fig. 1. VEGF binding to its receptor leads to receptor dimerization, activation of receptor tyrosine kinases by autophosphorylation. This leads to several biologiceffects including the proliferation and migration of endothelial cells and increased vascular permeability."
+          },
+          {
+            "paragraph33": "including EGFR by both IHC and FISH, KRAS mutations,VEGF and VEGF-2 levels, failed to predict outcomes, pos-sibly due to the low number of tissue samples submittedfor correlative biomarker studies [25]. On the other hand,increases in VEGF and decreases in soluble VEGF recep-tor 2 (sVEGFR-2) have been found to be a class effect ofvandetanib as reported in phase I and II studies of VEGFRTKIs [31,32]. The incongruity in the above ﬁndings can beattributed to the complexity of angiogenic pathways, lack ofstandardized detection techniques and poorly deﬁned cutoffvalues [32]. In a study conducted on patients treated withpazopanib an antiangiogenic agent, plasma sVEGFR2 wasassociated with tumor shrinkage [33]. In the BATTLE trial,previously treated NSCLC patients, underwent core needlebiopsiesandwereadaptivelyrandomizedtoeitheroffourbio-logical therapies based on a panel of molecular biomarkers[34]."
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "4. VEGF and VEGFR family"
+          },
+          {
+            "paragraph1": "VEGF-A (also referred to as VEGF) was ﬁrst identiﬁedby Senger et al. as a vascular permeability factor secretedby tumor cells [35]. It is the best characterized and moststudied of the VEGF family members. It is a tumor-secretedcytokine with critical importance in both normal and tumor-associated angiogenesis [36]. The VEGF gene which islocated on the short arm of chromosome 6 is composed ofeight exons and is differentially spliced to yield four isoforms(VEGF121, VEGF165, VEGF189 and VEGF206) [37]. Inaddition, some less commonly expressed isoforms were iden-tiﬁed (VEGF145 and VEGF183) [38].The VEGF family comprises seven secreted glycopro-teins that are designated VEGF-A, VEGF-B, VEGF-C,VEGF-D, VEGF-E, placental growth factor (PlGF) andVEGF-F [39–41]. VEGF-A exerts its biologic effect through"
+          },
+          {
+            "paragraph2": "interaction with cell-surface receptors. These receptorsare transmembrane tyrosine kinase receptors and includeVEGF receptor-1 (VEGFR-1; Flt-1) and VEGFR-2 (kinaseinsert domain-containing receptor-KDR/Flk-1), selectivelyexpressed on vascular endothelial cells, and the neuropilinreceptors (NP-1 and NP-2), expressed on vascular endothe-lium and neurons [42]. Upon binding of VEGF-A to theextracellular domain of the receptor, a cascade of downstreamproteins is activated after the dimerization and autophospho-rylation of the intracellular receptor tyrosine kinases (Fig. 1).VEGF induces proliferation, sprouting and tube formationof endothelial cells [39]. VEGFR-2 appears to be the mainreceptor responsible for mediating the proangiogenic effectsof VEGF-A [42,43].VEGF-B binds to VEGFR-1 but not VEGFR-2 orVEGFR-3, and the activation of this receptor induces a poormitogenic signal for endothelial cells suggesting that VEGF-B is an inefﬁcient endothelial cell mitogen [44]. VEGF-Bmight have a role in inﬂammatory [45] and cardiac angio-genesis [46].VEGF-C is a ligand for VEGFR-2 and VEGFR-3 [47].During development, VEGF-C is expressed along withits receptor VEGFR-3 mainly in regions where lymphaticvessels develop [48]. VEGF-C is also chemotactic formacrophages, and its receptor VEGFR-3 is expressed by afraction of peripheral blood monocytes and activated tissuemacrophages [49]. VEGF-C induces selective lymphangio-genesis without accompanying angiogenesis [50], and it hasbeen shown to have a positive role in lymphatic invasion,lymphatic metastasis and patient survival [51]."
+          },
+          {
+            "section2": [
+              {
+                "section_title": "4.1. VEGF tumor expression in NSCLC"
+              },
+              {
+                "paragraph1": "VEGF expression is regulated by very complex mixturesof cytokines, growth factors, hormones, and small molecules"
+              },
+              {
+                "paragraph2": "F.S. Farhat et al. / Critical Reviews in Oncology/Hematology 84 (2012) 149–160153"
+              },
+              {
+                "paragraph3": "Table 2Studies showing a negative prognostic effect of VEGF tumor expression in patients with NSCLC."
+              },
+              {
+                "paragraph4": "ReferenceOrigin of patientsNo. of patientsa% of positive VEGFimmunostainingHR (95% CI) and/orp-valueComments"
+              },
+              {
+                "paragraph5": "Ohta et al. [58]Japan122VEGF-A/VEGF-C = 50%/10%HR 1.50 (1.05–2.11) forVEGF-A;HR 1.34 (0.58–3.10) forVEGF-CVolm et al. [59]Germany10959%p = 0.033In multivariate analysisVEGF expression was notan independentprognostic parametera"
+              },
+              {
+                "paragraph6": "Giatromanolaki et al. [62]Greece114 (of 120 cases)68%p = 0.04In multivariate analysisVEGF expression was notan independentprognostic parametera"
+              },
+              {
+                "paragraph7": "Fontanini et al. [63]Italy10444%p = 0.00001Signiﬁcance determinedby backward stepwiseregression modelImoto et al. [64]Japan9153%p = 0.002In multivariate analysisVEGF expression was notan independentprognostic parametera"
+              },
+              {
+                "paragraph8": "Yuan et al. [67]Taiwan6050%p = 0.0046Nakashima et al. [68]Japan15351% for VEGF-A; 41.8%for VEGF-Cp = 0.010 for VEGF-Ap = 0.0025 for VEGF-A inpatients withadenocarcinomas;p = 0.0143 for VEGF-C inpatients with squamouscell carcinomasHuang et al. [69]Japan17352.6% for VEGF-A;42.2% for VEGF-Cp < 0.01 for VEGF-A;p = 0.03 for VEGF-CO’Byrne et al. [71]UK18346.6%p = 0.02In multivariate analysisVEGF expression was notan independentprognostic parametera"
+              },
+              {
+                "paragraph9": "Han et al. [72]USA85High VEGF expression71%; low VEGFexpression in 29%"
+              },
+              {
+                "paragraph10": "p = 0.018"
+              },
+              {
+                "paragraph11": "Oshika et al. [74]Japan8439.3–90.5%p = 0.01722Immunohistochemicalexamination conﬁrmedVEGF protein expressionin 33 cases; TheVEGF189 isoform wasexpressed in 76 cases"
+              },
+              {
+                "paragraph12": "VEGF: vascular endothelial growth factor; NSCLC: non-small cell lung cancer; HR: hazard ratio; CI: conﬁdence intervala Cases included in the survival analysis only."
+              },
+              {
+                "paragraph13": "154F.S. Farhat et al. / Critical Reviews in Oncology/Hematology 84 (2012) 149–160"
+              },
+              {
+                "paragraph14": "including PDGF, bFGF, TGFs and epidermal growth factor[52]. In humans, VEGFs and their receptors are expressed inmany solid tumors including breast [53], colon [54], ovary[55], cervix [56], and lung carcinoma [57,58]. The ﬁrst reporton VEGF expression in NSCLC was by Mattern et al. [57].This group of investigators demonstrated a negative prognos-tic role of VEGF expression in lung cancer tumors [59,60].Since then, numerous studies in early stage NSCLC havereported the overexpression of VEGF and its associationwith progression or poor survival [58,19,61–71]. In addi-tion, other studies demonstrated an association with survival(either overall or progression-free) and a correlation betweenVEGF expression and microvessel density [72–76]. In con-trast, some studies did not show any association betweenVEGF expression and survival [77,78]. Table 2 summarizesthe main studies that showed a poor prognostic impact ofVEGF expression in NSCLC. It is worth mentioning thatmost of the studies found a poor prognostic signiﬁcance ofVEGF expression in tumor cells; however, VEGF was notan independent prognostic parameter in multivariate analysis[59,60,64,71].One meta-analysis studying the prognostic impact ofVEGF expression in NSCLC was published by Delmotteet al. [79]. The authors performed a systematic review ofthe English and French literature with regard to both NSCLCand small cell lung cancer, and the inclusion criteria for arti-cles demanded existing data on the expression of VEGF orits receptors as well as the association between expressionand survival. Fifteen studies (1549 patients) were devotedto NSCLC. The meta-analysis showed that VEGF is anunfavorable prognostic factor in NSCLC (HR = 1.48; 95%conﬁdence interval (CI) 1.27–1.72). Another recent meta-analysis included in the analysis 4499 patients with NSCLCfrom 38 studies that were categorized by patient ethnicity,histology, disease stage, VEGF isoform, and laboratory tech-niques used [80]. Combined hazard ratios suggested thatVEGF over-expression regardless of its isoform indicated apoor prognosis for patients with NSCLC (HR = 1.46; 95% CI1.38–1.54). However, VEGF-C overexpression did not sig-niﬁcantly correlate with survival in these patients (HR = 1.22;95% CI 0.96–1.47) [80].In a relatively recent study, Nakashima et al. found thatintratumoral expression of different classes of VEGF hadunlike prognostic relevance in the different subgroups ofNSCLC [68]. VEGF-C was a signiﬁcant poor prognosticfactor in patients with squamous cell carcinomas (relativerisk = 3.946, p = 0.0143), while VEGF-A was a signiﬁcantprognosticator for those with adenocarcinomas (relativerisk = 3.816, p = 0.0025) [68]. Another study did not showany correlation between VEGF-A expression and progno-sis in NSCLC [81]. On the other hand, the investigatorsfound that VEGF-B and VEGF-D expression had a signif-icant correlation with worse survival in patients with stage Iand II NSCLC. The expression of VEGF-D was correlatedsigniﬁcantly with better survival in patients with stage IIIand IV disease [81]. Very recently a study correlated the"
+              },
+              {
+                "paragraph15": "prognostic impact of angiogenic factors with tumor size.Donnem et al. [82] studied the prognostic impact of angio-genic factors and their association with tumor size in NSCLC.In multivariate analysis, high VEGFR-2 (HR = 1.87, 95%CI 1.02–3.45; p = 0.043), VEGFR-3 (HR = 2.18, 95% CI1.28–3.71; p = 0.004) and the combination of high VEGF-A and high VEGFR-2 expression (low/low versus high/high;HR = 3.28, 95% CI 1.47–7.31; p = 0.004) were independentnegative prognostic factors in T2a tumors [82].Still other studies have been inconclusive or showed nocorrelation between tumor expression of VEGF and progno-sis. In one of the studies, VEGF-A was highly expressedin resected tumors from NSCLC patients; however, thisimmunohistochemical expression did not have prognosticimpact [83].Presently, most studies support the clinical prognosticimpact of VEGF expression in NSCLC tumors; in most ofthese studies, VEGF over-expression was associated with apoor prognosis."
+              }
+            ]
+          },
+          {
+            "section2": [
+              {
+                "section_title": "4.2. Circulating VEGF in NSCLC"
+              },
+              {
+                "paragraph1": "An increase in VEGF expression in some blood compart-ments (i.e. serum or plasma) has been found in solid andhematological malignancies of various origins and is associ-ated with metastasis formation and poor prognosis [17,84].Kondo et al. ﬁrst recognized the potential of VEGF as a serumdiagnostic marker for malignant disease [85]. They found thatthe VEGF levels in the sera from cancer patients were sig-niﬁcantly higher than those from individuals with no signof cancer [85]. Measuring the levels of circulating angio-genic factors can theoretically reﬂect the overall angiogenicactivity of the tumor; in addition, it is more easily assessablethan evaluating tumor expression of angiogenic factors whichdepends on the availability of adequate surgical or biopsyspecimens. Compared to the immunohistochemical evalua-tion of angiogenic factors in tumor tissues, the assessmentof these angiogenic factors in blood has theoretically severaladvantages: highly available, less expensive and less time-consuming, readily performed preoperatively, easily repeatedserially, and less biased [86].Published studies on circulating VEGF and its impact onsurvival in NSCLC are less frequent than those assessingtumor VEGF expression. Some studies revealed a signif-icantly inverse association between circulating levels andsurvival [87–93]. Other studies did not ﬁnd a signiﬁcantcorrelation between circulating VEGF and survival [94–97].Pre- and post-treatment serial assessments of circulatingVEGF have been performed and the clinical signiﬁcance oftheir changes was reported. Maniwa et al. found that theserum levels of VEGF increased after pulmonary surgeryand led to rapid growth of dormant micrometastases early inthe postoperative period [98]. In chemotherapy-treated lungcancer patients, researchers observed a signiﬁcant decreasein circulating VEGF in responders, while non-respondersshowed increasing levels (p = 0.006) [99]. Very recently a"
+              },
+              {
+                "paragraph2": "F.S. Farhat et al. / Critical Reviews in Oncology/Hematology 84 (2012) 149–160155"
+              },
+              {
+                "paragraph3": "study investigated the role of plasma VEGF-A and VEGFR-2 as biomarkers in advanced NSCLC [93]. VEGF-A andsVEGFR-2 levels were higher in NSCLC patients than incontrols. A patient subgroup characterized by a combina-tion of high VEGF-A and low VEGFR-2 levels exhibited theworst patient prognoses in terms of time-to-progression andoverall survival [93].So the data on the prognostic implication of VEGF inblood of patients with NSCLC is heterogeneous and needsfurther investigation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "5. Basic ﬁbroblast growth factor (bFGF)"
+          },
+          {
+            "paragraph1": "The ﬁbroblast growth factor (FGF) family representsa group of heparin-binding, multifunctional polypeptideswhich also are commonly found in malignant tumors [100].b-FGF (also known as ﬁbroblast growth factor 2-FGF2) isconsidered a potent stimulator of angiogenesis and bindswith high afﬁnity mainly to its receptor ﬁbroblast growthfactor receptor-1 (FGFR-1), a tyrosine kinase receptor [101].bFGF also stimulates VEGF secretion [102] and the effects ofVEGF and bFGF appear synergestic in vitro [103] and in vivo[104]. There are at least four isoforms of bFGF with differentmolecular masses (22, 22.5, 24 and 34 kDa) [105,106]. ThebFGF gene is located on chromosome 4 [107].bFGF may exert its effect on endothelial cells via aparacrine mode as a consequence to its release by tumorand stromal cells. It is also suggested that bFGF plays anautocrine role in endothelial cells [100,108]. A large body ofresearch has implicated b-FGF as having a role in tumori-genesis. Early studies showed that elevated levels of b-FGFin urine samples were signiﬁcantly correlated with the statusand the extent of disease whether solid tumors or hemato-logical malignancies [109]. bFGF also works synergisticallywith VEGF in inducing angiogenesis [104]."
+          },
+          {
+            "section2": [
+              {
+                "section_title": "5.1. bFGF tumor expression in NSCLC"
+              },
+              {
+                "paragraph1": "The majority of human NSCLC cell lines produce ele-vated levels of bFGF which in turn stimulate the growthof these tumor cells by intracrine mechanisms [110]. Thetumor expression of bFGF in NSCLC was ﬁrst reported byTakanami et al. [111]. Overall, 53–74% of the NSCLC cellsexpress bFGF [111–113]. The prognostic impact of bFGFin NSCLC is still controversial. In tumor specimens of 206patients with NSCLC, 70 of the tumors showed weak expres-sion of bFGF, 109 moderate and 27 high expression of bFGF(evaluation was done according to the intensity of stainingsuch that 0 = negative, 1 = weak, 2 = moderate, and 3 = high).However, the authors were unable to ﬁnd any associationbetween bFGF expression and survival [112]. Later, Shouet al. reported that bFGF expression signiﬁcantly correlatedto poor survival in 119 NSCLC patients [113]. However, ina study of 167 stage I–IV NSCLC adenocarcinomas, bFGFseemed an independent indicator of poor prognosis [111]."
+              },
+              {
+                "paragraph2": "Also using frozen tissue and enzyme-linked immunosorbentassay technique, in a cohort of 71 resected NSCLC patients,Iwasaki et al. observed that bFGF had an independent nega-tive impact on survival [114].Data shows that the prognostic impact of bFGF expressioninNSCLCisstillcontroversialalthoughthemajorityoftumorcells express bFGF."
+              }
+            ]
+          },
+          {
+            "section2": [
+              {
+                "section_title": "5.2. Circulating bFGF in NSCLC"
+              },
+              {
+                "paragraph1": "Elevated serum levels of bFGF in malignancy weredemonstrated by enzyme immunoassay as early as 1991[115]. Since that time, research has been active to investi-gate the clinical implications of circulating bFGF in cancerpatients. In general, the clinical signiﬁcance is more con-troversial for circulating bFGF than circulating VEGF inmalignancies.The ﬁrst study investigating serum levels of bFGF inNSCLC was reported by Brattström et al. [116]. Since thenother studies have investigated the clinical signiﬁcance of cir-culating bFGF in NSCLC. Among 68 NSCLC patients withstage I–IV disease, Brattström et al. found that elevated bFGFat diagnosis was a statistically signiﬁcant favorable prognos-ticfactorforsurvival(p = 0.048)[116].However,theseresultsdisagreed with the results from other studies. In a study byUeno et al. in 60 NSCLC patients (31 adenocarcinomas and29 squamous cell carcinomas), serum bFGF levels did notdiffer between the clinical stages of NSCLC and showed nocorrelation with survival [117]. It is worth mentioning herethat these are small studies with a limited number of patients.Other studies found that elevated bFGF levels correlatedwith poor survival in NSCLC [87,88,118]. Joensuu et al.evaluated the inﬂuence of serum bFGF on outcome in 138NSCLC [118]. The median survival time of the patients witha high bFGF level was 5 months versus 11 months in thosewith a lower level (p = 0.023). Serum bFGF levels at diag-nosis were associated with poor outcome. In the study byBrattström et al., 58 operable NSCLC patients were analyzedfor the prognostic value of serum bFGF [87]. Univariate anal-ysis found tumor burden, platelet counts, serum VEGF, andserum bFGF to be prognostic indicators for survival, whileonly serum bFGF remained signiﬁcant in the multivariateanalysis (p = 0.014) [87]."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "6. Conclusion and future prospects"
+          },
+          {
+            "paragraph1": "The recognition that angiogenesis plays a critical role in avariety of pathologic conditions, including tumor growth, ledto the discovery of several pro- and antiangiogenic factors.Angiogenesishasclearlyshowntobeameaningfulbiologicaltarget in several tumor types. The potential application ofdifferent angiogenesis inhibitors is currently under intenseclinical investigation.The key mediator of angiogenesis is VEGF. The inhibitionof angiogenesis continues to be an attractive target in the"
+          },
+          {
+            "paragraph2": "156F.S. Farhat et al. / Critical Reviews in Oncology/Hematology 84 (2012) 149–160"
+          },
+          {
+            "paragraph3": "treatment of patients with NSCLC. Based on randomizedphase II and III trials, bevacizumab, a potent and speciﬁcanti-VEGF monoclonal antibody, is the only anti-angiogenictherapy approved to date for the treatment of patients withNSCLC [23,4]. Presently, there is a body of data supportingthe clinical prognostic impact of angiogenic factor expressionespecially VEGF expression in NSCLC tumors. In most ofthe studies done, VEGF over-expression was associated witha poor prognosis in patients with NSCLC. This informationcould be of help in the designing of clinical trials mainlythose including angiogenesis inhibitors.The data on the prognostic implications of VEGF andbFGF in blood of these patients are more heterogeneous[119]. However, the evidence is still compelling and thesecirculating factors may in the future be used for evaluatingtreatment and monitoring response. Thus, further large-scalestudies are still needed to deﬁne the role of these and othermarkers in NSCLC and to validate their performance. Suchstudies need to include different targeted agents or studymulti-targeted drugs having anti-VEGF(R) or anti-FGR(R)activity. In the era of personalized medicine, there is grow-ing interest in individualizing treatment approaches in lungcancer. Moreover the concept of reverse migration entailsshifting frontline in the ﬁght against cancer from therapyto prevention. In other words, identiﬁcation of molecularbiomarkers will have implications not only on guiding ther-apy but also for intercepting cancer in high risk patients[34,120]. With all of the above taken into account, a fur-ther preventive dimension will be added to the prognosticand predictive value of molecular biomarkers, hence raisingthe plea for a better deﬁnition of their use in NSCLC."
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "Conﬂict of interest statement"
+          },
+          {
+            "paragraph1": "None declared."
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "Reviewers"
+          },
+          {
+            "paragraph1": "Luc Dirix, M.D., Ph.D., Sint-Augustinus Hospital,Oncologisch centrum, Oosterveldlaan 24, B-2610 Wilrijk,Belgium.Oliver Gautschi, M.D., Luzerner Kantonsspital, Depart-ment of Medicine, CH-6000 Lucern 15, Switzerland.Sacha I. Rothschild, M.D., Ph.D., University HospitalBasel, Medical Oncology, Petersgraben 4, CH-4031 Basel,Switzerland."
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "References"
+          },
+          {
+            "paragraph1": "[1] Sant M, Aareleid T, Berrino F, Bielska Lasota M, Carli PM, FaivreJ, et al. EUROCARE Working Group. EUROCARE-3: survival ofcancer patients diagnosed 1990–94—results and commentary. AnnOncol 2003;14(Suppl. 5):v61–118."
+          },
+          {
+            "paragraph2": "[2] Jemal A, Siegel R, Ward E, Hao Y, Xu J, Thun MJ. Cancer statistics,2009. CA Cancer J Clin 2009;59:225–49.[3] World Health Organization. World Health Statistics 2006. Geneva,Switzerland: World Health Organization; 2006. Available at:http://www.who.int/whosis/whostat2006/en/index.html.[4] Sandler A, Gray R, Perry MC, Brahmer J, Schiller JH, Dowlati A, et al.Paclitaxel–carboplatin alone or with bevacizumab for non-small-celllung cancer. N Engl J Med 2006;355:2542–50.[5] Wheatley-Price P, Shepherd FA. Targeting angiogenesis in the treat-ment of lung cancer. J Thorac Oncol 2008;3:1173–84.[6] Burris 3rd HA. Shortcomings of current therapies for non-small-cell lung cancer: unmet medical needs. Oncogene 2009;28(Suppl.1):S4–13.[7] Risau W. Mechanisms of angiogenesis. Nature 1997;386:671–4.[8] Ferrara N. VEGF and the quest for tumour angiogenesis factors. NatRev Cancer 2002;2:795–803.[9] Otrock ZK, Makarem JA, Shamseddine AI. Vascular endothelialgrowth factor family of ligands and receptors: review. Blood CellsMol Dis 2007;38:258–68.[10] Pandya NM, Dhalla NS, Santani DD. Angiogenesis—a new target forfuture therapy. Vascul Pharmacol 2006;44:265–74.[11] Folkman J. What is the evidence that tumors are angiogenesis depen-dent? J Natl Cancer Inst 1990;82:4–6.[12] CarmelietP.Mechanismsofangiogenesisandarteriogenesis.NatMed2000;6:389–95.[13] Hanahan D, Folkman J. Patterns and emerging mechanisms of theangiogenic switch during tumorigenesis. Cell 1996;86:353–64.[14] Folkman J, Shing Y. Angiogenesis. J Biol Chem 1992;267:10931–4.[15] Keith RL, Miller YE, Gemmill RM, Drabkin HA, Dempsey EC,Kennedy TC, et al. Angiogenic squamous dysplasia in bronchi ofindividuals at high risk for lung cancer. Clin Cancer Res 2000;6:1616–25.[16] Fontanini G, Calcinai A, Boldrini L, Lucchi M, Mussi A, AngelettiCA, et al. Modulation of neoangiogenesis in bronchial preneoplasticlesions. Oncol Rep 1999;6:813–7.[17] Poon RT, Fan ST, Wong J. Clinical implications of circulating angio-genic factors in cancer patients. J Clin Oncol 2001;19:1207–25.[18] Otrock ZK, Mahfouz RA, Makarem JA, Shamseddine AI. Under-standingthebiologyofangiogenesis:reviewofthemostimportant molecular mechanisms. Blood Cells Mol Dis 2007;39:212–20.[19] Mountzios G, Dimopoulos MA, Soria JC, Sanoudou D, PapadimitriouCA. Histopathologic and genetic alterations as predictors of responseto treatment and survival in lung cancer: a review of published data.Crit Rev Oncol Hematol 2010;75:94–109.[20] Custodio A, de Castro J. Strategies for maintenance therapy inadvancednon-smallcelllungcancer:currentstatus,unansweredques-tionsandfuturedirections.CritRevOncolHematol2011;(September)[Epub ahead of print].[21] Sandler A, Gray R, Perry MC, Brahmer J, Schiller JH, Dowlati A, et al.Paclitaxel–carboplatin alone or with bevacizumab for non-small-celllung cancer. N Engl J Med 2006;355(24):2542–50.[22] Reck M, von Pawel J, Zatloukal P, Ramlau R, Gorbounova V, Hirsh V,et al. Phase III trial of cisplatin plus gemcitabine with either placeboor bevacizumab as ﬁrst-line therapy for nonsquamous non-small-celllung cancer: AVAil. J Clin Oncol 2009;27:1227–34.[23] Johnson DH, Fehrenbacher L, Novotny WF, Herbst RS, Nemu-naitis JJ, Jablons DM, et al. Randomized phase II trial comparingbevacizumab plus carboplatin and paclitaxel with carboplatin andpaclitaxel alone in previously untreated locally advanced or metastaticnon-small-cell lung cancer. J Clin Oncol 2004;22:2184–91.[24] Dowlati A, Gray R, Sandler AB, Schiller JH, Johnson DH. Celladhesion molecules, vascular endothelial growth factor, and basicﬁbroblast growth factor in patients with non-small cell lung can-cer treated with chemotherapy with or without bevacizumab—anEastern Cooperative Oncology Group Study. Clin Cancer Res2008;14:1407–12."
+          },
+          {
+            "paragraph3": "F.S. Farhat et al. / Critical Reviews in Oncology/Hematology 84 (2012) 149–160157"
+          },
+          {
+            "paragraph4": "[25] Quinton C, Ellis PM. An evidence-based approach to the use of pre-dictive biomarkers in the treatment of non- small cell lung cancer(NSCLC). Cancers 2011;3:3506–24.[26] Leighl N, Reck M, de Haas S, Evers S, Delmar P, Manegold C,et al. Analysis of biomarkers (bms) in the avail phase iii randomisedstudy of ﬁrst-line bevacizumab (bv) with cisplatin-gemcitabine (cg) inpatients (pts) with non-small cell lung cancer (NSCLC). Eur J Cancer2009;(Suppl. 7):558.[27] Heymach JV, Paz-Ares L, De Braud F, Sebastian M, Stewart DJ, Eber-hardt WE, et al. Randomized phase II study of vandetanib alone orwith paclitaxel and carboplatin as ﬁrst-line treatment for advancednon-small-cell lung cancer. J Clin Oncol 2008;26:5407–15.[28] Heymach JV, Johnson BE, Prager D, Csada E, Roubec J, Pesek M,et al. Randomized, placebo-controlled phase II study of vandetanibplus docetaxel in previously treated non small-cell lung cancer. J ClinOncol 2007;25:4270–7.[29] Natale RB, Bodkin D, Govindan R, Sleckman BG, Rizvi NA, Capó A,et al. Vandetanib versus geﬁtinib in patients with advanced non-small-cell lung cancer: results from a two-part, double-blind, randomizedphase ii study. J Clin Oncol 2009;27:2523–9.[30] Hanrahan EO, Ryan AJ, Mann H, Kennedy SJ, Langmuir P, NataleRB, et al. Baseline vascular endothelial growth factor concentration asa potential predictive marker of beneﬁt from vandetanib in non-smallcell lung cancer. Clin Cancer Res 2009;15:3600–9.[31] Hanrahan EO, Lin HY, Kim ES, Yan S, Du DZ, McKee KS,et al. Distinct patterns of cytokine and angiogenic factor modu-lation and markers of beneﬁt for vandetanib and/or chemotherapyin patients with non-small-cell lung cancer. J Clin Oncol 2010;28:193–201.[32] Longo R, Gasparini G. Challenges for patient selection with VEGFinhibitors. Cancer Chemother Pharmacol 2007;60:151–70.[33] Nikolinakos PG, Altorki N, Yankelevitz D, Tran HT, Yan S,Rajagopalan D, et al. Plasma cytokine and angiogenic factor proﬁl-ing identiﬁes markers associated with tumor shrinkage in early-stagenon-small cell lung cancer patients treated with pazopanib. CancerRes 2010;70:2171–9.[34] Gold KA, Kim ES, Lee JJ, Wistuba II, Farhangfar CJ, Hong WK.The BATTLE to personalize lung cancer prevention through reversemigration. Cancer Prev Res (Phila) 2011;4:962–72.[35] Senger DR, Galli SJ, Dvorak AM, Perruzzi CA, Harvey VS, DvorakHF. Tumor cells secrete a vascular permeability factor that promotesaccumulation of ascites ﬂuid. Science 1983;219:983–5.[36] Rini BI, Small EJ. Biology and clinical development of vascularendothelial growth factor-targeted therapy in renal cell carcinoma.J Clin Oncol 2005;23:1028–43.[37] Tischer E, Mitchell R, Hartman T, Silva M, Gospodarowicz D, FiddesJC, et al. The human gene for vascular endothelial growth factor.Multiple protein forms are encoded through alternative exon splicing.J Biol Chem 1991;266:11947–54.[38] Neufeld G, Cohen T, Gengrinovitch S, Poltorak Z. Vascular endothe-lial growth factor (VEGF) and its receptors. FASEB J 1999;13:9–22.[39] Ferrara N, Gerber HP, LeCouter J. The biology of VEGF and itsreceptors. Nat Med 2003;9:669–76.[40] Houck KA, Ferrara N, Winer J, Cachianes G, Li B, Leung DW. Thevascular endothelial growth factor family: identiﬁcation of a fourthmolecular species and characterization of alternative splicing of RNA.Mol Endocrinol 1991;5:1806–14.[41] Suto K, Yamazaki Y, Morita T, Mizuno H. Crystal structuresof novel vascular endothelial growth factors (VEGF) from snakevenoms: insight into selective VEGF binding to kinase insert domain-containing receptor but not to fms-like tyrosine kinase-1. J Biol Chem2005;280:2126–31.[42] Dvorak HF. Vascular permeability factor/vascular endothelial growthfactor: a critical cytokine in tumor angiogenesis and a potential targetfor diagnosis and therapy. J Clin Oncol 2002;20:4368–80.[43] Cross MJ, Dixelius J, Matsumoto T, Claesson-Welsh L. VEGF-receptor signal transduction. Trends Biochem Sci 2003;28:488–94."
+          },
+          {
+            "paragraph5": "[44] Nash AD, Baca M, Wright C, Scotney PD. The biology of vascu-lar endothelial growth factor-B (VEGF-B). Pulm Pharmacol Ther2006;19:61–9.[45] Mould AW, Tonks ID, Cahill MM, Cahill MM, Pettit AR, ThomasR, et al. Vegfb gene knockout mice display reduced pathology andsynovial angiogenesis in both antigen-induced and collagen-inducedmodels of arthritis. Arthritis Rheum 2003;48:2660–9.[46] Bellomo D, Headrick JP, Silins GU, Paterson CA, Thomas PS,Gartside M, et al. Mice lacking the vascular endothelial growthfactor-B gene (Vegfb) have smaller hearts, dysfunctional coronaryvasculature, and impaired recovery from cardiac ischemia. Circ Res2000;86:E29–35.[47] Joukov V, Sorsa T, Kumar V, Jeltsch M, Claesson-Welsh L, Cao Y,et al. Proteolytic processing regulates receptor speciﬁcity and activityof VEGF-C. EMBO J 1997;16:3898–911.[48] Karkkainen MJ, Haiko P, Sainio K, Partanen J, Taipale J, Petrova TV,et al. Vascular endothelial growth factor C is required for sproutingof the ﬁrst lymphatic vessels from embryonic veins. Nat Immunol2004;5:74–80.[49] Skobe M, Hamberg LM, Hawighorst T, Schirner M, Wolf GL, AlitaloK, et al. Concurrent induction of lymphangiogenesis, angiogenesis,and macrophage recruitment by vascular endothelial growth factor-Cin melanoma. Am J Pathol 2001;159:893–903.[50] Jeltsch M, Kaipainen A, Joukov V, Meng X, Lakso M, Rauvala H,et al. Hyperplasia of lymphatic vessels in VEGF-C transgenic mice.Science 1997;276:1423–5.[51] Fujimoto J, Toyoki H, Sato E, Sakaguchi H, Tamaya T. Clinicalimplication of expression of vascular endothelial growth factor-Cin metastatic lymph nodes of uterine cervical cancers. Br J Cancer2004;91:466–9.[52] Ferrara N. Vascular endothelial growth factor: basic science and clin-ical progress. Endocr Rev 2004;25:581–611.[53] Brown LF, Berse B, Jackman RW, Tognazzi K, Guidi AJ, Dvorak HF,et al. Expression of vascular permeability factor (vascular endothe-lial growth factor) and its receptors in breast cancer. Hum Pathol1995;26:86–91.[54] Brown LF, Berse B, Jackman RW, Tognazzi K, Manseau EJ, Sen-ger DR, et al. Expression of vascular permeability factor (vascularendothelial growth factor) and its receptors in adenocarcinomas ofthe gastrointestinal tract. Cancer Res 1993;53:4727–35.[55] Olson TA, Mohanraj D, Carson LF, Ramakrishnan S. Vascular perme-ability factor gene expression in normal and neoplastic human ovaries.Cancer Res 1994;54:276–80.[56] Guidi AJ, Abu-Jawdeh G, Berse B, Jackman RW, Tognazzi K, DvorakHF, et al. Vascular permeability factor (vascular endothelial growthfactor) expression and angiogenesis in cervical neoplasia. J Natl Can-cer Inst 1995;87:1237–45.[57] Mattern J, Koomägi R, Volm M. Association of vascular endothelialgrowth factor expression with intratumoral microvessel density andtumour cell proliferation in human epidermoid lung carcinoma. Br JCancer 1996;73:931–4.[58] Ohta Y, Endo Y, Tanaka M, Shimizu J, Oda M, Hayashi Y,et al. Signiﬁcance of vascular endothelial growth factor messengerRNA expression in primary lung cancer. Clin Cancer Res 1996;2:1411–6.[59] Volm M, Koomägi R, Mattern J. Prognostic value of vascular endothe-lial growth factor and its receptor Flt-1 in squamous cell lung cancer.Int J Cancer 1997;74:64–8.[60] Mattern J, Koomägi R, Volm M. Coexpression of VEGF and bFGF inhuman epidermoid lung carcinoma is associated with increased vesseldensity. Anticancer Res 1997;17:2249–52.[61] Ohta Y, Tanaka Y, Watanabe G, Minato H. Predicting recurrencefollowing curative surgery in stage I non-small cell lung cancerpatients using an angiogenesis-associated factor. J Exp Clin CancerRes 2007;26:301–5.[62] Giatromanolaki A, Koukourakis MI, Kakolyris S, Turley H, O’ByrneK, Scott PA, et al. Vascular endothelial growth factor, wild-type p53,"
+          },
+          {
+            "paragraph6": "158F.S. Farhat et al. / Critical Reviews in Oncology/Hematology 84 (2012) 149–160"
+          },
+          {
+            "paragraph7": "and angiogenesis in early operable non-small cell lung cancer. ClinCancer Res 1998;4:3017–24.[63] Fontanini G, Vignati S, Boldrini L, Chinè S, Silvestri V, LucchiM, et al. Vascular endothelial growth factor is associated with neo-vascularization and inﬂuences progression of non-small cell lungcarcinoma. Clin Cancer Res 1997;3:861–5.[64] Imoto H, Osaki T, Taga S, Ohgami A, Ichiyoshi Y, Yasumoto K.Vascular endothelial growth factor expression in non-small-cell lungcancer: prognostic signiﬁcance in squamous cell carcinoma. J ThoracCardiovasc Surg 1998;115:1007–14.[65] Yuan A, Yu CJ, Kuo SH, Chen WJ, Lin FY, Luh KT, et al.Vascular endothelial growth factor 189 mRNA isoform expressionspeciﬁcally correlates with tumor angiogenesis, patient survival, andpostoperative relapse in non-small-cell lung cancer. J Clin Oncol2001;19:432–41.[66] Yuan A, Yu CJ, Luh KT, Kuo SH, Lee YC, Yang PC. Aberrant p53expression correlates with expression of vascular endothelial growthfactor mRNA and interleukin-8 mRNA and neoangiogenesis in non-small-cell lung cancer. J Clin Oncol 2002;20:900–10.[67] Yuan A, Yu CJ, Shun CT, Luh KT, Kuo SH, Lee YC, et al. Totalcyclooxygenase-2 mRNA levels correlate with vascular endothe-lial growth factor mRNA levels, tumor angiogenesis and prognosisin non-small cell lung cancer patients. Int J Cancer 2005;115:545–55.[68] Nakashima T, Huang CL, Liu D, Kameyama K, Masuya D, Ueno M,et al. Expression of vascular endothelial growth factor-A and vascularendothelial growth factor-C as prognostic factors for non-small celllung cancer. Med Sci Monit 2004;10:BR157–65.[69] Huang C, Liu D, Masuya D, Nakashima T, Kameyama K, IshikawaS, et al. Clinical application of biological markers for treatments ofresectable non-small-cell lung cancers. Br J Cancer 2005;92:1231–9.[70] Tanaka F, Ishikawa S, Yanagihara K, Miyahara R, Kawano Y, Li M,et al. Expression of angiopoietins and its clinical signiﬁcance in non-small cell lung cancer. Cancer Res 2002;62:7124–9.[71] O’Byrne KJ, Koukourakis MI, Giatromanolaki A, Cox G, Turley H,Steward WP, et al. Vascular endothelial growth factor, platelet-derivedendothelial cell growth factor and angiogenesis in non-small-cell lungcancer. Br J Cancer 2000;82:1427–32.[72] Han H, Silverman JF, Santucci TS, Macherey RS, d’Amato TA, TungMY, et al. Vascular endothelial growth factor expression in stage Inon-small cell lung cancer correlates with neoangiogenesis and a poorprognosis. Ann Surg Oncol 2001;8:72–9.[73] Shibusa T, Shijubo N, Abe S. Tumor angiogenesis and vascularendothelial growth factor expression in stage I lung adenocarcinoma.Clin Cancer Res 1998;4:1483–7.[74] Oshika Y, Nakamura M, Tokunaga T, Ozeki Y, Fukushima Y,Hatanaka H, et al. Expression of cell-associated isoform of vascu-lar endothelial growth factor 189 and its prognostic relevance innon-small cell lung cancer. Int J Oncol 1998;12:541–4.[75] Takahama M, Tsutsumi M, Tsujiuchi T, Kido A, Okajima E, NezuK, et al. Frequent expression of the vascular endothelial growthfactor in human non-small-cell lung cancers. Jpn J Clin Oncol1998;28:176–81.[76] Kadota K, Huang CL, Liu D, Ueno M, Kushida Y, Haba R, et al.The clinical signiﬁcance of lymphangiogenesis and angiogenesis innon-small cell lung cancer patients. Eur J Cancer 2008;44:1057–67.[77] Liao M, Wang H, Lin Z, Feng J, Zhu D. Vascular endothelialgrowth factor and other biological predictors related to the post-operative survival rate on non-small cell lung cancer. Lung Cancer2001;33:125–32.[78] Baillie R, Carlile J, Pendleton N, Schor AM. Prognostic value ofvascularity and vascular endothelial growth factor expression in non-small cell lung cancer. J Clin Pathol 2001;54:116–20.[79] Delmotte P, Martin B, Paesmans M, Berghmans T, Mascaux C, MeertAP, et al. VEGF and survival of patients with lung cancer: a systematicliterature review and meta-analysis. Rev Mal Respir 2002;19:577–84[article in French]."
+          },
+          {
+            "paragraph8": "[80] Zhan P, Wang J, Lv XJ, Wang Q, Qiu LX, Lin XQ, et al. Prognosticvalue of vascular endothelial growth factor expression in patients withlung cancer: a systematic review with meta-analysis. J Thorac Oncol2009;4:1094–103.[81] Carrillo de Santa Pau E, Arias FC, Caso Peláez E, Mu˜noz Molina GM,Sánchez Hernández I, Muguruza Trueba I, et al. Prognostic signiﬁ-cance of the expression of vascular endothelial growth factors A, B,C, and D and their receptors R1, R2, and R3 in patients with nonsmallcell lung cancer. Cancer 2009;115:1701–12.[82] Donnem T, Andersen S, Al-Saad S, Al-Shibli K, Busund LT, BremnesRM. Prognostic impact of angiogenic markers in non-small-cell lungcancer is related to tumor size. Clin Lung Cancer 2011;12:106–15.[83] Bonnesen B, Pappot H, Holmstav J, Skov BG. Vascular endothelialgrowth factor A and vascular endothelial growth factor receptor 2expression in non-small cell lung cancer patients: relation to progno-sis. Lung Cancer 2009;66:314–8.[84] Pathak AP, Hochfeld WE, Goodman SL, Pepper MS. Circulating andimaging markers for angiogenesis. Angiogenesis 2008;11:321–35.[85] Kondo S, Asano M, Matsuo K, Ohmori I, Suzuki H. Vascular endothe-lial growth factor/vascular permeability factor is detectable in the seraof tumor-bearing mice and cancer patients. Biochim Biophys Acta1994;31(1221):211–4.[86] Bremnes RM, Camps C, Sirera R. Angiogenesis in non-small celllung cancer: the prognostic impact of neoangiogenesis and thecytokines VEGF and bFGF in tumours and blood. Lung Cancer2006;51:143–58.[87] Brattström D, Bergqvist M, Hesselius P, Larsson A, Lamberg K,Wernlund J, et al. Elevated preoperative serum levels of angio-genic cytokines correlate to larger primary tumours and poorersurvival in non-small cell lung cancer patients. Lung Cancer 2002;37:57–63.[88] Brattström D, Bergqvist M, Hesselius P, Larsson A, Wagenius G,Brodin O. Serum VEGF and bFGF adds prognostic information inpatients with normal platelet counts when sampled before, duringand after treatment for locally advanced non-small cell lung cancer.Lung Cancer 2004;43:55–62.[89] Laack E, Köhler A, Kugler C, Dierlamm T, Knuffmann C, VohwinkelG, et al. Pretreatment serum levels of matrix metalloproteinase-9 andvascular endothelial growth factor in non-small-cell lung cancer. AnnOncol 2002;13:1550–7.[90] Laack E, Schefﬂer A, Burkholder I, Boeters I, Andritzky B, SchuchG, et al. Pretreatment vascular endothelial growth factor (VEGF)and matrix metalloproteinase-9 (MMP-9) serum levels in patientswith metastatic non-small cell lung cancer (NSCLC). Lung Cancer2005;50:51–8.[91] Kaya A, Ciledag A, Gulbay BE, Poyraz BM, Celik G, Sen E, et al.The prognostic signiﬁcance of vascular endothelial growth factorlevels in sera of non-small cell lung cancer patients. Respir Med2004;98:632–6.[92] Chakra M, Pujol JL, Lamy PJ, Bozonnat MC, Quantin X, Jacot W,et al. Circulating serum vascular endothelial growth factor is nota prognostic factor of non-small cell lung cancer. J Thorac Oncol2008;3:1119–26.[93] Jantus-Lewintre E, Sanmartín E, Sirera R, Blasco A, Sanchez JJ,Tarón M, et al. Combined VEGF-A and VEGFR-2 concentrationsin plasma: diagnostic and prognostic implications in patients withadvanced NSCLC. Lung Cancer 2011;74:326–31.[94] Choi JH, Kim HC, Lim HY, Nam DK, Kim HS, Yi JW, et al. Vascularendothelial growth factor in the serum of patients with non-smallcell lung cancer: correlation with platelet and leukocyte counts. LungCancer 2001;33:171–9.[95] Suzuki M, Iizasa T, Ko E, Baba M, Saitoh Y, Shibuya K, et al. Serumendostatin correlates with progression and prognosis of non-small celllung cancer. Lung Cancer 2002;35:29–34.[96] Park SH, Lee SS. The relationship between serum VEGF con-centration and prognosis of lung cancer. Korean J Intern Med2003;18:207–11."
+          },
+          {
+            "paragraph9": "F.S. Farhat et al. / Critical Reviews in Oncology/Hematology 84 (2012) 149–160159"
+          },
+          {
+            "paragraph10": "[97] Tas F, Duranyildiz D, Oguz H, Camlica H, Yasasever V, Topuz E.Serum vascular endothelial growth factor (VEGF) and bcl-2 lev-els in advanced stage non-small cell lung cancer. Cancer Invest2006;24:576–80.[98] Maniwa Y, Okada M, Ishii N, Kiyooka K. Vascular endothelial growthfactor increased by pulmonary surgery accelerates the growth ofmicrometastases in metastatic lung cancer. Chest 1998;114:1668–75.[99] Kido Y. Vascular endothelial growth factor (VEGF) serum concen-tration changes during chemotherapy in patients with lung cancer.Kurume Med J 2001;48:43–7.[100] Klagsbrun M. Mediators of angiogenesis: the biological signiﬁcanceof basic ﬁbroblast growth factor (bFGF)-heparin and heparan sulfateinteractions. Semin Cancer Biol 1992;3:81–7.[101] Presta M, Dell’Era P, Mitola S, Moroni E, Ronca R, Rusnati M.Fibroblast growth factor/ﬁbroblast growth factor receptor system inangiogenesis. Cytokine Growth Factor Rev 2005;16:159–78.[102] Tsai JC, Goldman CK, Gillespie GY. Vascular endothelial growthfactor in human glioma cell lines: induced secretion by EGF, PDGF-BB, and bFGF. J Neurosurg 1995;82:864–73.[103] Goto F, Goto K, Weindel K, Folkman J. Synergistic effects of vascularendothelial growth factor and basic ﬁbroblast growth factor on theproliferation and cord formation of bovine capillary endothelial cellswithin collagen gels. Lab Invest 1993;69:508–17.[104] Asahara T, Bauters C, Zheng LP, Takeshita S, Bunting S, FerraraN, et al. Synergistic effect of vascular endothelial growth factor andbasic ﬁbroblast growth factor on angiogenesis in vivo. Circulation1995;92:II365–71.[105] Florkiewicz RZ, Sommer A. Human basic ﬁbroblast growth factorgene encodes four polypeptides: three initiate translation from non-AUG codons. Proc Natl Acad Sci USA 1989;86:3978–81.[106] Yu PJ, Ferrari G, Galloway AC, Mignatti P, Pintucci G. Basic ﬁbro-blast growth factor (FGF-2): the high molecular weight forms comeof age. J Cell Biochem 2007;100:1100–8.[107] Fukushima Y, Byers MG, Fiddes JC, Shows TB. The human basicﬁbroblast growth factor gene (FGFB) is assigned to chromosome4q25. Cytogenet Cell Genet 1990;54:159–60.[108] Gualandris A, Rusnati M, Belleri M, Nelli EE, Bastaki M, Molinari-Tosatti MP, et al. Basic ﬁbroblast growth factor overexpression inendothelial cells: an autocrine mechanism for angiogenesis and angio-proliferative diseases. Cell Growth Differ 1996;7:147–60.[109] Nguyen M, Watanabe H, Budson AE, Richie JP, Hayes DF, FolkmanJ. Elevated levels of an angiogenic peptide, basic ﬁbroblast growthfactor, in the urine of patients with a wide spectrum of cancers. J NatlCancer Inst 1994;86:356–61.[110] Kuhn H, Köpff C, Konrad J, Riedel A, Gessner C, Wirtz H. Inﬂuenceof basic ﬁbroblast growth factor on the proliferation of non-small celllung cancer cell lines. Lung Cancer 2004;44:167–74.[111] Takanami I, Imamura T, Hashizume T, Kikuchi K, Yamamoto Y,Yamamoto T, et al. Immunohistochemical detection of basic ﬁbroblastgrowth factor as a prognostic indicator in pulmonary adenocarcinoma.Jpn J Clin Oncol 1996;26:293–7.[112] Volm M, Koomägi R, Mattern J, Stammler G. Prognostic valueof basic ﬁbroblast growth factor and its receptor (FGFR-1) inpatients with non-small cell lung carcinomas. Eur J Cancer 1997;33:691–3.[113] Shou Y, Hirano T, Gong Y, Kato Y, Yoshida K, Ohira T, et al. Inﬂu-ence of angiogenetic factors and matrix metalloproteinases upontumour progression in non-small-cell lung cancer. Br J Cancer2001;85:1706–12.[114] Iwasaki A, Kuwahara M, Yoshinaga Y, Shirakusa T. Basic ﬁbroblastgrowth factor (bFGF) and vascular endothelial growth factor (VEGF)levels, as prognostic indicators in NSCLC. Eur J Cardiothorac Surg2004;25:443–8.[115] Fujimoto K, Ichimori Y, Kakizoe T, Okajima E, Sakamoto H, Sug-imura T, et al. Increased serum levels of basic ﬁbroblast growth factorin patients with renal cell carcinoma. Biochem Biophys Res Commun1991;180:386–92."
+          },
+          {
+            "paragraph11": "[116] Brattström D, Bergqvist M, Larsson A, Holmertz J, Hesselius P,Rosenberg L, et al. Basic ﬁbroblast growth factor and vascularendothelial growth factor in sera from non-small cell lung cancerpatients. Anticancer Res 1998;18:1123–7.[117] Ueno K, Inoue Y, Kawaguchi T, Hosoe S, Kawahara M. Increasedserum levels of basic ﬁbroblast growth factor in lung cancer patients:relevance to response of therapy and prognosis. Lung Cancer2001;31:213–9.[118] Joensuu H, Anttonen A, Eriksson M, Mäkitaro R, Alfthan H,Kinnula V, et al. Soluble syndecan-1 and serum basic ﬁbroblastgrowth factor are new prognostic factors in lung cancer. Cancer Res2002;62:5210–7.[119] Otrock ZK, Hatoum HA, Musallam KM, Awada AH, ShamseddineAI. Is VEGF a predictive biomarker to anti-angiogenic therapy? CritRev Oncol Hematol 2011;79:103–11.[120] Blackburn EH. Cancer interception. Cancer Prev Res (Phila)2011;4:787–92."
+          }
+        ]
+      },
+      {
+        "section1": [
+          {
+            "section_title": "Biographies"
+          },
+          {
+            "paragraph1": "Dr. Fadi Farhat M.D. is born on July 11, 1962 in Lebanon.He earned his Medical Doctor Degree from the Faculty ofMedicine at Zaparojie University between 1981 and 1988.He continued his residency and fellowship training in theDepartments of Hematology and Solid Tumors at “InstitutGustave-Roussy, Ville Juif, France: from October 1989 tillSeptember 1995. During his training, Dr FARHAT pursuedhis education and achieved higher studies degree of “Med-ical Oncology”, “and Advanced Course in Chemotherapy”.Also he acquired successfully four University diplomas of“Pharmacological Oncology”, “Breast Diseases”, “Hematol-ogy” and “Clinical Cancerology” from the university of ParisIV, V, and VII. Dr. FARHAT was appointed at the Facultyof Medicine at Saint-Joseph University in September 2004.In January 2011, he has been elected as President Of CancerResearch Group, a leader in the ﬁeld of research in the MiddleEast. In January 2012, he has been elected as Future Presi-dent of Lebanese Society of Medical Oncology. Dr. FARHATchaired the Hematology-Oncology Department at HammoudHospital University Medical Center in Saida since 1998 tillnow. He is member of the Scientiﬁc Board, the Ethical Com-mittee of the same hospital. He is the author and the co-authorfor more than 40 peer-reviewed articles. He published morethan 50 abstracts and 35 posters in multiple InternationalOncology Congresses. He has given several invited lecturesworldwide."
+          },
+          {
+            "paragraph2": "Dr. Arafat Tfayli M.D. received his medical doctoratedegree from the American University of Beirut. He receivedhis Internal Medicine Residency training at State Universityof New York at Stony Brook, and his Hematology/Oncologyfellowship training at Georgetown University. He is currentlyan Associate Professor of Clinical Medicine and the Ameri-can University of Beirut. His areas of interest include breastand lung cancer research."
+          },
+          {
+            "paragraph3": "Dr. Najla Fakhruddin M.D. received her medical doctordegree from the American University of Beirut (AUB)-Lebanon. She received her Specialty training in pathology"
+          },
+          {
+            "paragraph4": "160F.S. Farhat et al. / Critical Reviews in Oncology/Hematology 84 (2012) 149–160"
+          },
+          {
+            "paragraph5": "at the AUB-Medical Center. She is currently the director ofthe pathology department at Hammoud Hospital UniversityMedical Center and a clinical associate in the AUB-MedicalCenter. Her scientiﬁc work focuses on the role of currentbiomarkers in solid tumors such as HIF-1� in triple negativebreast cancer, EGFR in lung adenocarcinoma, and BRAF inthyroid papillary carcinoma."
+          },
+          {
+            "paragraph6": "Dr. Rami Mahfouz M.D. is an Associate Professor in theDepartment of Pathology & Laboratory Medicine at the Fac-ulty of Medicine at the American University of Beirut (AUB)and the Director of the Molecular Diagnostics Laboratory(Histocompatibility and Molecular Pathology) and Directorof the Flow Cytometry and Clinical Hematology Laboratory.He left for a Molecular Pathology Fellowship in St. Jude Chil-dren’s Research Hospital in Memphis, Tennessee where hecompleted his fellowship training in Molecular Diagnosticsand specialized in Microarrays technology and applications.Currently, he is involved in a multitude of projects studyingdifferent medical entities. In addition, Dr. Mahfouz has ledseveralprojectsinLebanonandtheﬁrstamongregionalcoun-tries that studied Natural Killer Cell Immunoglobulin-LikeReceptors (KIR) role in different clinical entities. Dr. Mah-fouz has also conducted several projects studying inheritedThrombophilia factors in the healthy and patient Lebanesepopulations."
+          },
+          {
+            "paragraph7": "Dr. Zaher K. Otrock M.D. is a post-doctoral researchfellow in the Department of Internal Medicine at the Amer-ican University of Beirut Medical Center (AUB-MC). Hecompleted his medical schooling in 2003 at AUB-MC thendid four years of clinical and basic research in hematol-ogy/oncology and clinical pathology. He then joined theClinical Pathology residency program in the Department ofPathologyandLaboratoryMedicineatAUB-MCandhegrad-uated in 2011. He has authored over 95 peer-review scientiﬁcpublications and book chapters. His research is focused onhematological malignancies, thrombophilia and angiogene-sis."
+          },
+          {
+            "paragraph8": "Dr. Raafat S. Alameddine M.D. is a Clinical ResearchFellow in Nayef K. Basil Cancer Center at the AmericanUniversity of Beirut. He received his Medical Degree fromthe same university in 2010. Then, he completed one year ofinternship in Internal Medicine in the same institution. His"
+          },
+          {
+            "paragraph9": "main research interests cover the areas of solid tumors, cancerepidemiology and targeted therapies."
+          },
+          {
+            "paragraph10": "Dr. Ahmad H. Awada M.D., Ph.D. studied Medicine atthe Free University in Brussels (ULB), Belgium. He did aspecialization in Internal Medicine and Medical Oncologyat Jules Bordet Institute. To deepen his training, he stayed inthe Netherlands (NDDO) and in San Antonio, USA (Institutefor Drug Development). He focused on the clinical develop-ment of new anticancer agents. Back from the USA, DoctorAwada became Head of Medical Oncology Clinic, and Headof the New Drugs Development Unit at Jules Bordet Insti-tute. He has an important clinical activity in the treatment ofsolid tumors. Doctor Awada took an active part in the devel-opment of new drugs, some of them already widely used. DrAwada is membership of several societies and has teachingresponsibilities at the Université Libre de Bruxelles, ULB. Hereceived 2 awards, one from the Medecine Royal Academy.He has published 24 book chapters and 158 peer reviewedarticles in international journals."
+          },
+          {
+            "paragraph11": "Dr. Ali Shamseddine M.D. is Professor of ClinicalMedicine and Head of Hematology – Oncology Division atthe American University of Beirut and Medical Center. Heis the chair of the hospital committee on cancer since morethan 10 years as well as the director of the Tumor Registryat the Medical Center. He is also the V/P of the NationalCancer Registry (NCR) since 2005. He published more than120 papers in peer review journals. His research focuses onseveral issues including: Epidemiology of cancer in Lebanon,Breastcancer,Gastro-intestinalandProstaticcancers.Healsopublished a book dealing with the trends of cancer at theAmerican University of Beirut over 20 years (1983–2003)and recently (May 2010) cancer report 2010 (APOCP). Dr.Shamseddine is an active member in the society. He is a for-mal president of the Lebanese Society of Medical Oncologyas well as the Vice-President of the National Cancer Reg-istry. He is also well known internationally in the ﬁeld ofoncology and he is an active member of the American Soci-ety of Clinical oncology (ASCO) and over the last two yearshe was the chair of the Best of ASCO meeting in Beirut. Heis also member of the European Society of Medical Oncol-ogy (ESMO) and the European Association of Hematology(EHA). He is the founder and chair of the Arab CollaborativeHematology-Oncology Group (ACHOG)."
+          }
+        ]
+      }
+    ]
+  }
+]
